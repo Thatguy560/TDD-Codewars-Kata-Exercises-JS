@@ -1,0 +1,1 @@
+middleCharacter = (middle) => {};
