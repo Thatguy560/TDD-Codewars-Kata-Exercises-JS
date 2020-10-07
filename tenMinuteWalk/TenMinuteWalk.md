@@ -9,10 +9,10 @@ Note: you will always receive a valid array containing a random assortment of di
 ### Test Cases
 
 ```
-ten_minute_walk?(['n', 's' ,'n' ,'s' ,'n' ,'s' ,'n' ,'s' ,'n' ,'s']) # => true
-ten_minute_walk?(['w', 'e', 'w', 'e', 'w', 'e', 'w', 'e', 'w', 'e','w', 'e']) # => false
-ten_minute_walk?(['w']) # => false
-ten_minute_walk?(['n','n','n','s','n','s','n','s','n','s']) # => false
+tenMinuteWalk(['n', 's' ,'n' ,'s' ,'n' ,'s' ,'n' ,'s' ,'n' ,'s']) # => true
+tenMinuteWalk(['w', 'e', 'w', 'e', 'w', 'e', 'w', 'e', 'w', 'e','w', 'e']) # => false
+tenMinuteWalk(['w']) # => false
+tenMinuteWalk(['n','n','n','s','n','s','n','s','n','s']) # => false
 ```
 
 ### Input/Output Table
