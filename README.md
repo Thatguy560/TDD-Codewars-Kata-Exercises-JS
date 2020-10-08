@@ -7,3 +7,5 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 2) Middle Character Kata (JS)
 
 ## 3) Highest and Lowest Kata (JS)
+
+## 4) Sum two arrays Kata (JS)
