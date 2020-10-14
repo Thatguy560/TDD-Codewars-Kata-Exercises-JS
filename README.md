@@ -9,3 +9,5 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 3) Highest and Lowest Kata (JS)
 
 ## 4) Sum two arrays Kata (JS)
+
+## 5) Descending Order Kata (JS)
