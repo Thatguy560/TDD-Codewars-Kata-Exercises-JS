@@ -16,3 +16,5 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 7) Alternate Case Kata (JS)
 
+## 8) Simple Pig Latin Kata (JS)
+
