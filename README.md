@@ -11,3 +11,6 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 4) Sum two arrays Kata (JS)
 
 ## 5) Descending Order Kata (JS)
+
+## 5) What Century Is It? Kata (JS)
+
