@@ -1,4 +1,4 @@
-## What Century Is It Kata
+## Alternate Case Kata
 
 ### Requirements 
 
