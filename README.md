@@ -12,5 +12,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 5) Descending Order Kata (JS)
 
-## 5) What Century Is It? Kata (JS)
+## 6) What Century Is It? Kata (JS)
+
+## 7) Alternate Case Kata (JS)
 
