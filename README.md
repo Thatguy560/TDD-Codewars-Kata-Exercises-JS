@@ -18,3 +18,5 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 8) Simple Pig Latin Kata (JS)
 
+## 9) Larger Product or Sum Kata (JS)
+
