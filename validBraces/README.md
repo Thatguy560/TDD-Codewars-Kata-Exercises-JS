@@ -1,4 +1,4 @@
-## Alternate Case Kata
+## Valid Braces Kata
 
 ### Requirements 
 

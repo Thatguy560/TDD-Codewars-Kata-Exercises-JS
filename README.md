@@ -20,3 +20,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 9) Larger Product or Sum Kata (JS)
 
+## 10) Jumble Setence Kata (JS)
+
+## 11) Valid Braces Kata (JS)
+
+## 11) Sort The Odd Kata (JS)
+
