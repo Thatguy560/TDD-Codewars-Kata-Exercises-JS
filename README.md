@@ -24,5 +24,5 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 11) Valid Braces Kata (JS)
 
-## 11) Sort The Odd Kata (JS)
+## 12) Sort The Odd Kata (JS)
 
