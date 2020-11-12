@@ -26,5 +26,5 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 12) Sort The Odd Kata (JS)
 
-## Test just to see if commits are logged on Github.
+## 13) Reverser Kata (JS)
 
