@@ -36,5 +36,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 17) Extract the domain name from a URL (JS) - 5kyu 
 
+## 18) Get Names (JS) - 7kyu 
+
 
 
