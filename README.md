@@ -32,5 +32,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 15) Sum of Two Integers (JS) - 6kyu 
 
+## 16) Strings to Numbers (JS) - 7kyu 
+
 
 
