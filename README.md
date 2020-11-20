@@ -28,5 +28,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 13) Reverser Kata (JS) - 7kyu  
 
-## 14) Get the Middle Character Kata (JS) - 7kyu  
+## 14) Get the Middle Character Kata (JS) - 7kyu 
+
+## 15) Sum of Two Integers (JS) - 6kyu 
+
+
 
