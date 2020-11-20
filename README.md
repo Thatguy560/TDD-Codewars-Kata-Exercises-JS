@@ -34,5 +34,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 16) Strings to Numbers (JS) - 7kyu 
 
+## 17) Extract the domain name from a URL (JS) - 5kyu 
+
 
 
