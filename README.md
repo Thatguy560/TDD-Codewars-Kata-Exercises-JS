@@ -20,11 +20,13 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 9) Larger Product or Sum Kata (JS)
 
-## 10) Jumble Setence Kata (JS) - 5kyu
+## 10) Jumble Sentence Kata (JS) - 5kyu
 
 ## 11) Valid Braces Kata (JS) - 6kyu  
 
 ## 12) Sort The Odd Kata (JS) - 7kyu  
 
 ## 13) Reverser Kata (JS) - 7kyu  
+
+## 14) Get the Middle Character Kata (JS) - 7kyu  
 
