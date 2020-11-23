@@ -12,7 +12,7 @@ In some cases, there will be an array containing a negative number as the first 
 
 ### Test Cases
 
-```
+```JavaScript
 addArrays([3,2,9],[1,2]) # => [3,4,1]
 addArrays([4,7,3],[1,2,3]) # => [5,9,6]
 addArrays([1],[5,7,6]) # => [5,7,7]

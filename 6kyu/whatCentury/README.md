@@ -6,7 +6,7 @@ Return the century of the input year. The input will always be a 4 digit string,
 
 ### Test Cases
 
-```
+```JavaScript
 whatCentury("1999") # => "20th"
 whatCentury("2011") # => "21st"
 whatCentury("2154") # => "22nd"

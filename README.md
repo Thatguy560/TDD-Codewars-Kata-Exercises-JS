@@ -40,5 +40,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 19) Time-like string format (JS) - 6kyu 
 
+## 20) Convert string to camel case (JS) - 6kyu 
+
+## 21) 
+
 
 

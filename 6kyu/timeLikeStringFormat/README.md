@@ -8,7 +8,7 @@ The method must raise an exception if its hour length is less than 3 digits and 
 
 ### Test Cases
 
-```
+```JavaScript
 solution(800) # => // should return '8:00'
 solution(1000) # => // should return '10:00'
 solution(1451) # => // should return '14:51'

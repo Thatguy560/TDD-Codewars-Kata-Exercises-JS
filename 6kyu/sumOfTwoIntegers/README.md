@@ -12,7 +12,7 @@ Javascript: the Array reduce methods are disabled, along with eval, require, and
 
 ### Test Cases
 
-```
+```JavaScript
 add(5, 19) # => 24
 add(-27, 18) # => 9
 ```

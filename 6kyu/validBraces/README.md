@@ -14,7 +14,7 @@ A string of braces is considered valid if all braces are matched with the correc
 
 ### Test Cases
 
-```
+```JavaScript
 validBraces("(){}[]") # => True
 validBraces("([{}])") # => True
 validBraces("(}") # => False

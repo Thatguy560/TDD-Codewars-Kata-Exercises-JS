@@ -8,7 +8,7 @@ Note: you will always receive a valid array containing a random assortment of di
 
 ### Test Cases
 
-```
+```JavaScript
 tenMinuteWalk(['n', 's' ,'n' ,'s' ,'n' ,'s' ,'n' ,'s' ,'n' ,'s']) # => true
 tenMinuteWalk(['w', 'e', 'w', 'e', 'w', 'e', 'w', 'e', 'w', 'e','w', 'e']) # => false
 tenMinuteWalk(['w']) # => false
