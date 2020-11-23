@@ -6,7 +6,7 @@ upper. E.g: Hello World -> hELLO wORLD
 
 ### Test Cases
 
-```
+```JavaScript
 alternateCase("abc") # => "ABC"
 alternateCase("ABC") # => "abc"
 alternateCase("Hello World") # => "hELLO wORLD"

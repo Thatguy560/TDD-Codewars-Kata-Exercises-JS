@@ -14,7 +14,7 @@ The middle character(s) of the word represented as a string.
 
 ### Test Cases
 
-```
+```JavaScript
 middleCharacter("test") # => "es"
 middleCharacter("testing") # => "t"
 middleCharacter("middle") # => "dd"

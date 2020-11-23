@@ -14,7 +14,7 @@ The middle character(s) of the word represented as a string.
 
 ### Test Cases
 
-```
+```JavaScript
 Kata.getMiddle("test") should return "es"
 Kata.getMiddle("testing") should return "t"
 Kata.getMiddle("middle") should return "dd"

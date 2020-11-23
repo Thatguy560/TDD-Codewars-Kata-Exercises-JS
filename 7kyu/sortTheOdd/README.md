@@ -9,7 +9,7 @@ Zero isn't an odd number and you don't need to move it. If you have an empty arr
 
 ### Test Cases
 
-```
+```JavaScript
 sortArray([5, 3, 2, 8, 1, 4]) # => [1, 3, 2, 8, 5, 4]
 sortArray([5, 3, 1, 8, 0]) # => [1, 3, 5, 8, 0]
 

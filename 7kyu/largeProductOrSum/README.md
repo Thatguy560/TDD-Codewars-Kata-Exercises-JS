@@ -20,7 +20,7 @@ The product of the 3 lowest numbers is higher than the sum of the 3 highest numb
 
 ### Test Cases
 
-```
+```JavaScript
 sumOrProduct([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 4) => "sum"
 sumOrProduct([10, 41, 8, 16, 20, 36, 9, 13, 20], 3) => "product"
 sumOrProduct([10, 20, 3, 30, 5, 4], 3) => "same"

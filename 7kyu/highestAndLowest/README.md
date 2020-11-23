@@ -14,7 +14,7 @@ In this little assignment you are given a string of space separated numbers, and
 
 ### Test Cases
 
-```
+```JavaScript
 highAndLow("1 2 3 4 5") # => "5 1"
 highAndLow("1 2 -3 4 5") # => "5 -3"
 highAndLow("1 9 3 4 -5") # => "9 -5"

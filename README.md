@@ -42,7 +42,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 20) Convert string to camel case (JS) - 6kyu 
 
-## 21) 
+## 21) Area or Perimeter (JS) - 8kyu 
 
 
 

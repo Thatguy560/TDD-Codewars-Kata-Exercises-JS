@@ -8,7 +8,7 @@ Your function can only be a maximum of 30 characters long (not including whitesp
 
 ### Test Cases
 
-```
+```JavaScript
 Convert(['1','2','3'] # => [1,2,3])
 ```
 

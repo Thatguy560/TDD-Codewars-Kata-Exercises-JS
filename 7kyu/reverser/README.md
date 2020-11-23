@@ -6,7 +6,7 @@ Impliment the reverse function, which takes in input n and reverses it. For inst
 
 ### Test Cases
 
-```
+```JavaScript
 Reverse(1234) # => 4321
 Reverse(10987) # => 78901
 Reverse(1020) # => 201

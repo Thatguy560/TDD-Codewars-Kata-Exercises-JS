@@ -6,7 +6,7 @@ Your task is to make a function that can take any non-negative integer as an arg
 
 ### Test Cases
 
-```
+```JavaScript
 descendingOrder(42145) # => 54421
 descendingOrder(145263) # => 654321
 descendingOrder(123456789) # => 987654321
