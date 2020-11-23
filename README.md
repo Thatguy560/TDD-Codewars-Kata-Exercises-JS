@@ -38,5 +38,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 18) Get Names (JS) - 7kyu 
 
+## 19) Time-like string format (JS) - 6kyu 
+
 
 
