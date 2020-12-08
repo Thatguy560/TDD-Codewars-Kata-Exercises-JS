@@ -6,3 +6,5 @@ reverse = (n) => {
   }
   return revNum;
 };
+
+module.exports = reverse;

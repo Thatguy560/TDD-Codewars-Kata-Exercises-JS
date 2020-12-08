@@ -7,3 +7,5 @@ alternativeCase = (str) => {
     .join("");
   return ans;
 };
+
+module.exports = alternativeCase;

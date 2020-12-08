@@ -3,3 +3,5 @@ getNames = (data) => {
     return item.name;
   });
 };
+
+module.exports = getNames;

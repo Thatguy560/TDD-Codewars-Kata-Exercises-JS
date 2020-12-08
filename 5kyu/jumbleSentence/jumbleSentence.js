@@ -31,3 +31,5 @@ jumbleSentence = (input) => {
   endword = endword.join(" ");
   return endword;
 };
+
+module.exports = jumbleSentence;

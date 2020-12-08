@@ -4,3 +4,5 @@ validBraces = (braces) => {
   }
   return braces.length == 0 ? true : false;
 };
+
+module.exports = validBraces;

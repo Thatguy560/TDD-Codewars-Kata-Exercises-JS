@@ -12,3 +12,5 @@ addArrays = (array1, array2) => {
     return finalNumber.toString().match(/-?\d/g).map(Number);
   }
 };
+
+module.exports = addArrays;

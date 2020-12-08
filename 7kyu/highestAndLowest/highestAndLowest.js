@@ -4,3 +4,5 @@ highAndLow = (numbers) => {
   let min = Math.min.apply(Math, arr);
   return `${max} ${min}`;
 };
+
+module.exports = highAndLow;

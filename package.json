@@ -1,0 +1,26 @@
+{
+  "name": "TDD-Exercises-JS",
+  "version": "1.0.0",
+  "description": "A repository made to practice my TDD skills using some Kata I've found on Codewars. Code will be written in either JS or Ruby.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises/issues"
+  },
+  "homepage": "https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

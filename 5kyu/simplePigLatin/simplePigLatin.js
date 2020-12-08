@@ -13,3 +13,5 @@ pigIt = (str) => {
     .join(" ");
   return str.includes("?") || str.includes("!") ? specialAns : normalAns;
 };
+
+module.exports = pigIt;

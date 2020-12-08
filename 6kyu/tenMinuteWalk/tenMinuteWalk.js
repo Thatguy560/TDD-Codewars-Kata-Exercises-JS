@@ -15,3 +15,5 @@ tenMinuteWalk = (walk) => {
     ? true
     : false;
 };
+
+module.exports = tenMinuteWalk;

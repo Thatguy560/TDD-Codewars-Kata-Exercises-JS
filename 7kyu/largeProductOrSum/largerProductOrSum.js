@@ -19,3 +19,5 @@ sumOrProduct = (array, n) => {
     return "same";
   }
 };
+
+module.exports = sumOrProduct;

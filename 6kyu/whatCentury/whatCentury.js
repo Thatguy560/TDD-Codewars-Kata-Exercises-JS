@@ -6,4 +6,6 @@ whatCentury = (year) => {
   );
 };
 
+module.exports = whatCentury;
+
 // ceil always rounds a number up to the next largest integer.

@@ -44,5 +44,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 21) Area or Perimeter (JS) - 8kyu 
 
+# Check Test Coverage 
 
+git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
 
+cd TDD-Codewars-Kata-Exercises
+
+type 'npm test' to run tests

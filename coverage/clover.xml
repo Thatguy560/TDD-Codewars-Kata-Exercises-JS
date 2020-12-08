@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1607433889812" clover="3.2.0">
+  <project timestamp="1607433889812" name="All files">
+    <metrics statements="150" coveredstatements="147" conditionals="55" coveredconditionals="50" methods="40" coveredmethods="40" elements="245" coveredelements="237" complexity="0" loc="150" ncloc="150" packages="21" files="21" classes="21"/>
+    <package name="5kyu.domainName">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.jumbleSentence">
+      <metrics statements="27" coveredstatements="27" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <file name="jumbleSentence.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/jumbleSentence/jumbleSentence.js">
+        <metrics statements="27" coveredstatements="27" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="22" type="stmt"/>
+        <line num="19" count="22" type="stmt"/>
+        <line num="20" count="22" type="cond" truecount="4" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="22" type="stmt"/>
+        <line num="25" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.simplePigLatin">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="simplePigLatin.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/simplePigLatin/simplePigLatin.js">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.stringToCamelCase">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="stringToCamelCase.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/stringToCamelCase/stringToCamelCase.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.sumOfTwoIntegers">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="sumOfTwoIntegers.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/sumOfTwoIntegers/sumOfTwoIntegers.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.sumTwoArrays">
+      <metrics statements="12" coveredstatements="10" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="sumTwoArrays.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/sumTwoArrays/sumTwoArrays.js">
+        <metrics statements="12" coveredstatements="10" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.tenMinuteWalk">
+      <metrics statements="11" coveredstatements="11" conditionals="5" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="tenMinuteWalk.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/tenMinuteWalk/tenMinuteWalk.js">
+        <metrics statements="11" coveredstatements="11" conditionals="5" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="50" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="50" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="50" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="50" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="5" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.timeLikeStringFormat">
+      <metrics statements="11" coveredstatements="10" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="timeLikeStringFormat.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/timeLikeStringFormat/timeLikeStringFormat.js">
+        <metrics statements="11" coveredstatements="10" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.validBraces">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="validBraces.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/validBraces/validBraces.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="13" type="stmt"/>
+        <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.whatCentury">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="whatCentury.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/whatCentury/whatCentury.js">
+        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.alternateCase">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="alternateCase.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/alternateCase/alternateCase.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.descendingOrder">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="descendingOrder.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/descendingOrder/descendingOrder.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="19" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.getNames">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="getNames.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/getNames/getNames.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.getTheMiddleCharacter">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="getMiddleCharacter.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/getTheMiddleCharacter/getMiddleCharacter.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.highestAndLowest">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="highestAndLowest.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/highestAndLowest/highestAndLowest.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="15" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.largeProductOrSum">
+      <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+      <file name="largerProductOrSum.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/largeProductOrSum/largerProductOrSum.js">
+        <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="39" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="35" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.middleCharacter">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="middleCharacter.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/middleCharacter/middleCharacter.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.reverser">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="reverser.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/reverser/reverser.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="13" type="stmt"/>
+        <line num="5" count="13" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.sortTheOdd">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="sortTheOdd.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/sortTheOdd/sortTheOdd.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="11" type="stmt"/>
+        <line num="3" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.stringsToNumbers">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="stringsToNumbers.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/stringsToNumbers/stringsToNumbers.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.areaOrPerimeter">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="areaOrPerimeter.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/areaOrPerimeter/areaOrPerimeter.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

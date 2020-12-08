@@ -5,3 +5,5 @@ middleCharacter = (word) => {
     ? word.slice(middle, middle + 1)
     : word.slice(middle - 1, middle + 1);
 };
+
+module.exports = middleCharacter;

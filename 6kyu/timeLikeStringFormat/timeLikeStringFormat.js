@@ -11,3 +11,5 @@ solution = (hour) => {
     return `${firstTwo}:${lastTwo}`;
   }
 };
+
+module.exports = solution;
