@@ -46,6 +46,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 22) split Strings - 6kyu
 
+## 23) Find the divisors! - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
