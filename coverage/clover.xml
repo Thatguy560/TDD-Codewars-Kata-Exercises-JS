@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607442053270" clover="3.2.0">
-  <project timestamp="1607442053271" name="All files">
-    <metrics statements="159" coveredstatements="156" conditionals="61" coveredconditionals="55" methods="42" coveredmethods="42" elements="262" coveredelements="253" complexity="0" loc="159" ncloc="159" packages="23" files="23" classes="23"/>
+<coverage generated="1607444507426" clover="3.2.0">
+  <project timestamp="1607444507426" name="All files">
+    <metrics statements="167" coveredstatements="164" conditionals="63" coveredconditionals="57" methods="43" coveredmethods="43" elements="273" coveredelements="264" complexity="0" loc="167" ncloc="167" packages="24" files="24" classes="24"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -59,6 +59,20 @@
         <line num="11" count="7" type="stmt"/>
         <line num="14" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.selectiveArrayReversing">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="selectiveReversing.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/selectiveArrayReversing/selectiveReversing.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.splitStrings">
