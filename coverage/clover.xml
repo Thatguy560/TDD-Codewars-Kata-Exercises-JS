@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607444507426" clover="3.2.0">
-  <project timestamp="1607444507426" name="All files">
-    <metrics statements="167" coveredstatements="164" conditionals="63" coveredconditionals="57" methods="43" coveredmethods="43" elements="273" coveredelements="264" complexity="0" loc="167" ncloc="167" packages="24" files="24" classes="24"/>
+<coverage generated="1607604987527" clover="3.2.0">
+  <project timestamp="1607604987527" name="All files">
+    <metrics statements="174" coveredstatements="171" conditionals="63" coveredconditionals="57" methods="46" coveredmethods="46" elements="283" coveredelements="274" complexity="0" loc="174" ncloc="174" packages="25" files="25" classes="25"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -91,6 +91,19 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.sumOfDigits">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="sumOfDigits.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/sumOfDigits/sumOfDigits.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.sumOfTwoIntegers">
