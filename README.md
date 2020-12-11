@@ -58,7 +58,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 28) Double Char - 8kyu
 
-## 29) Array.diff - 8kyu
+## 29) Array diff - 6kyu
+
+## 30) Find the odd int - 6kyu
 
 # Check Test Coverage 
 
