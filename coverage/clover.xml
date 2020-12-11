@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607604987527" clover="3.2.0">
-  <project timestamp="1607604987527" name="All files">
-    <metrics statements="174" coveredstatements="171" conditionals="63" coveredconditionals="57" methods="46" coveredmethods="46" elements="283" coveredelements="274" complexity="0" loc="174" ncloc="174" packages="25" files="25" classes="25"/>
+<coverage generated="1607698679591" clover="3.2.0">
+  <project timestamp="1607698679591" name="All files">
+    <metrics statements="179" coveredstatements="176" conditionals="63" coveredconditionals="57" methods="48" coveredmethods="48" elements="290" coveredelements="281" complexity="0" loc="179" ncloc="179" packages="26" files="26" classes="26"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -186,6 +186,17 @@
         <line num="2" count="5" type="stmt"/>
         <line num="3" count="5" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.yourOrderPlease">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="yourOrderPlease.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/yourOrderPlease/yourOrderPlease.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="15" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.alternateCase">
