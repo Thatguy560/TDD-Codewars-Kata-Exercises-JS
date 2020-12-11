@@ -48,6 +48,18 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 23) Find the divisors! - 7kyu
 
+## 24) Selective Array Reversing - 6kyu
+
+## 25) Split Strings - 6kyu
+
+## 26) Sum of Digits / Digital Root - 6kyu
+
+## 27) Your order, please - 6kyu
+
+## 28) Double Char - 8kyu
+
+## 29) Array.diff - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
