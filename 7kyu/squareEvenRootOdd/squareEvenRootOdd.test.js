@@ -5,5 +5,3 @@ describe("sumSquareEvenRootOdd", () => {
     expect(sumSquareEvenRootOdd([4, 5, 7, 8, 1, 2, 3, 0])).toEqual(91.61);
   });
 });
-
-// expect(sumSquareEvenRootOdd([4, 5, 7, 8, 1, 2, 3, 0])).toEqual(91.61);

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607960868101" clover="3.2.0">
-  <project timestamp="1607960868102" name="All files">
-    <metrics statements="199" coveredstatements="196" conditionals="67" coveredconditionals="61" methods="59" coveredmethods="59" elements="325" coveredelements="316" complexity="0" loc="199" ncloc="199" packages="32" files="32" classes="32"/>
+<coverage generated="1607964671044" clover="3.2.0">
+  <project timestamp="1607964671044" name="All files">
+    <metrics statements="203" coveredstatements="200" conditionals="67" coveredconditionals="61" methods="61" coveredmethods="61" elements="331" coveredelements="322" complexity="0" loc="203" ncloc="203" packages="33" files="33" classes="33"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -364,6 +364,16 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="8" type="cond" truecount="2" falsecount="0"/>
         <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.squareEveryDigit">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="squareEveryDigit.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/squareEveryDigit/squareEveryDigit.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.stringsToNumbers">
