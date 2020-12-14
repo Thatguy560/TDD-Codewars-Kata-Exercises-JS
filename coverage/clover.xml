@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607958798807" clover="3.2.0">
-  <project timestamp="1607958798807" name="All files">
-    <metrics statements="195" coveredstatements="192" conditionals="65" coveredconditionals="59" methods="57" coveredmethods="57" elements="317" coveredelements="308" complexity="0" loc="195" ncloc="195" packages="31" files="31" classes="31"/>
+<coverage generated="1607960868101" clover="3.2.0">
+  <project timestamp="1607960868102" name="All files">
+    <metrics statements="199" coveredstatements="196" conditionals="67" coveredconditionals="61" methods="59" coveredmethods="59" elements="325" coveredelements="316" complexity="0" loc="199" ncloc="199" packages="32" files="32" classes="32"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -354,6 +354,16 @@
         <line num="2" count="11" type="stmt"/>
         <line num="3" count="11" type="cond" truecount="2" falsecount="0"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.squareEvenRootOdd">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="squareEvenRootOdd.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/squareEvenRootOdd/squareEvenRootOdd.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.stringsToNumbers">

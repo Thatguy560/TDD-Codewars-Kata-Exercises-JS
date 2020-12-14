@@ -66,6 +66,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 32) JavaScript Array Filter - 7kyu
 
+## 33) Sum - Square Even, Root Odd - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
