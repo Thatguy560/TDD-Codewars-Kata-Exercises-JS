@@ -68,6 +68,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 33) Sum - Square Even, Root Odd - 7kyu
 
+## 34) Square Every Digit - 7kyu
+
+## 35) Lost number in number sequence - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

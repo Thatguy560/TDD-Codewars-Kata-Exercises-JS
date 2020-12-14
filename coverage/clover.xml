@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607964671044" clover="3.2.0">
-  <project timestamp="1607964671044" name="All files">
-    <metrics statements="203" coveredstatements="200" conditionals="67" coveredconditionals="61" methods="61" coveredmethods="61" elements="331" coveredelements="322" complexity="0" loc="203" ncloc="203" packages="33" files="33" classes="33"/>
+<coverage generated="1607966945841" clover="3.2.0">
+  <project timestamp="1607966945841" name="All files">
+    <metrics statements="207" coveredstatements="204" conditionals="69" coveredconditionals="62" methods="64" coveredmethods="64" elements="340" coveredelements="330" complexity="0" loc="207" ncloc="207" packages="34" files="34" classes="34"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -320,6 +320,16 @@
         <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="19" count="1" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.lostNumberInSequence">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+      <file name="lostNumberInSequence.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/lostNumberInSequence/lostNumberInSequence.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.middleCharacter">
