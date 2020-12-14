@@ -62,6 +62,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 30) Find the odd int - 6kyu
 
+## 31) Find the capitals - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

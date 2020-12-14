@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607709075044" clover="3.2.0">
-  <project timestamp="1607709075045" name="All files">
-    <metrics statements="187" coveredstatements="184" conditionals="63" coveredconditionals="57" methods="54" coveredmethods="54" elements="304" coveredelements="295" complexity="0" loc="187" ncloc="187" packages="29" files="29" classes="29"/>
+<coverage generated="1607957737132" clover="3.2.0">
+  <project timestamp="1607957737133" name="All files">
+    <metrics statements="193" coveredstatements="190" conditionals="65" coveredconditionals="59" methods="55" coveredmethods="55" elements="313" coveredelements="304" complexity="0" loc="193" ncloc="193" packages="30" files="30" classes="30"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -235,6 +235,18 @@
         <line num="2" count="3" type="stmt"/>
         <line num="3" count="19" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.findTheCapitals">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="findTheCapitals.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/findTheCapitals/findTheCapitals.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.findTheDivisors">
