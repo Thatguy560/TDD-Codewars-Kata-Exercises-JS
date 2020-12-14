@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607957737132" clover="3.2.0">
-  <project timestamp="1607957737133" name="All files">
-    <metrics statements="193" coveredstatements="190" conditionals="65" coveredconditionals="59" methods="55" coveredmethods="55" elements="313" coveredelements="304" complexity="0" loc="193" ncloc="193" packages="30" files="30" classes="30"/>
+<coverage generated="1607958798807" clover="3.2.0">
+  <project timestamp="1607958798807" name="All files">
+    <metrics statements="195" coveredstatements="192" conditionals="65" coveredconditionals="59" methods="57" coveredmethods="57" elements="317" coveredelements="308" complexity="0" loc="195" ncloc="195" packages="31" files="31" classes="31"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -225,6 +225,14 @@
         <line num="5" count="17" type="cond" truecount="2" falsecount="0"/>
         <line num="8" count="3" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.arrayFilter">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="arrayFilter.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/arrayFilter/arrayFilter.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.descendingOrder">

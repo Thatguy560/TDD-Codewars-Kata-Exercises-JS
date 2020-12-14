@@ -64,6 +64,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 31) Find the capitals - 7kyu
 
+## 32) JavaScript Array Filter - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
