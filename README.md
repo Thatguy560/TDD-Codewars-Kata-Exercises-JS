@@ -72,6 +72,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 35) Lost number in number sequence - 7kyu
 
+## 36) Automorphic Number (Special Numbers Series #6) - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

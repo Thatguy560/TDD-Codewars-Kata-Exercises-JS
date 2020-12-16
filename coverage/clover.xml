@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1607966945841" clover="3.2.0">
-  <project timestamp="1607966945841" name="All files">
-    <metrics statements="207" coveredstatements="204" conditionals="69" coveredconditionals="62" methods="64" coveredmethods="64" elements="340" coveredelements="330" complexity="0" loc="207" ncloc="207" packages="34" files="34" classes="34"/>
+<coverage generated="1608124703138" clover="3.2.0">
+  <project timestamp="1608124703138" name="All files">
+    <metrics statements="212" coveredstatements="209" conditionals="73" coveredconditionals="66" methods="65" coveredmethods="65" elements="350" coveredelements="340" complexity="0" loc="212" ncloc="212" packages="35" files="35" classes="35"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -233,6 +233,17 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="4" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.automorphicNumber">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="automorphicNumber.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/automorphicNumber/automorphicNumber.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.descendingOrder">
