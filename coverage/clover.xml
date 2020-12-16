@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608124703138" clover="3.2.0">
-  <project timestamp="1608124703138" name="All files">
-    <metrics statements="212" coveredstatements="209" conditionals="73" coveredconditionals="66" methods="65" coveredmethods="65" elements="350" coveredelements="340" complexity="0" loc="212" ncloc="212" packages="35" files="35" classes="35"/>
+<coverage generated="1608126533387" clover="3.2.0">
+  <project timestamp="1608126533387" name="All files">
+    <metrics statements="215" coveredstatements="212" conditionals="73" coveredconditionals="66" methods="67" coveredmethods="67" elements="355" coveredelements="345" complexity="0" loc="215" ncloc="215" packages="36" files="36" classes="36"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -181,6 +181,15 @@
         <line num="9" count="1" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.uniqueInOrder">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="uniqueInOrder.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/uniqueInOrder/uniqueInOrder.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.validBraces">
