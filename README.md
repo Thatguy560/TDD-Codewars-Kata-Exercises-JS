@@ -78,6 +78,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 38) String Matchup - 7kyu
 
+## 39) Who likes it? - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
