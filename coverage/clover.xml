@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608126533387" clover="3.2.0">
-  <project timestamp="1608126533387" name="All files">
-    <metrics statements="215" coveredstatements="212" conditionals="73" coveredconditionals="66" methods="67" coveredmethods="67" elements="355" coveredelements="345" complexity="0" loc="215" ncloc="215" packages="36" files="36" classes="36"/>
+<coverage generated="1608209169744" clover="3.2.0">
+  <project timestamp="1608209169744" name="All files">
+    <metrics statements="217" coveredstatements="214" conditionals="73" coveredconditionals="66" methods="70" coveredmethods="70" elements="360" coveredelements="350" complexity="0" loc="217" ncloc="217" packages="37" files="37" classes="37"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -404,6 +404,14 @@
         <line num="2" count="1" type="stmt"/>
         <line num="6" count="4" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.stringMatchup">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="stringMatchup.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/stringMatchup/stringMatchup.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="15" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.stringsToNumbers">
