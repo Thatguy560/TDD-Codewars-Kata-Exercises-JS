@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608211207467" clover="3.2.0">
-  <project timestamp="1608211207468" name="All files">
-    <metrics statements="226" coveredstatements="223" conditionals="83" coveredconditionals="75" methods="71" coveredmethods="71" elements="380" coveredelements="369" complexity="0" loc="226" ncloc="226" packages="38" files="38" classes="38"/>
+<coverage generated="1608219570678" clover="3.2.0">
+  <project timestamp="1608219570678" name="All files">
+    <metrics statements="228" coveredstatements="225" conditionals="83" coveredconditionals="75" methods="72" coveredmethods="72" elements="383" coveredelements="372" complexity="0" loc="228" ncloc="228" packages="39" files="39" classes="39"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -278,6 +278,14 @@
         <line num="2" count="3" type="stmt"/>
         <line num="3" count="19" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.disemvowelTrolls">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="disemvowelTrolls.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/disemvowelTrolls/disemvowelTrolls.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.findTheCapitals">
