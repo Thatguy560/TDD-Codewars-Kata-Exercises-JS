@@ -84,6 +84,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 41) Replace With Alphabet Position - 6kyu
 
+## 42) Ones and Zeros - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

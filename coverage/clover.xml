@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608292563464" clover="3.2.0">
-  <project timestamp="1608292563464" name="All files">
-    <metrics statements="236" coveredstatements="233" conditionals="83" coveredconditionals="75" methods="74" coveredmethods="74" elements="393" coveredelements="382" complexity="0" loc="236" ncloc="236" packages="40" files="40" classes="40"/>
+<coverage generated="1608296083895" clover="3.2.0">
+  <project timestamp="1608296083895" name="All files">
+    <metrics statements="240" coveredstatements="237" conditionals="83" coveredconditionals="75" methods="76" coveredmethods="76" elements="399" coveredelements="388" complexity="0" loc="240" ncloc="240" packages="41" files="41" classes="41"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -398,6 +398,16 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.onesAndZeros">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="onesAndZeros.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/onesAndZeros/onesAndZeros.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.reverser">
