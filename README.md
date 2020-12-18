@@ -86,6 +86,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 42) Ones and Zeros - 7kyu
 
+## 43) Counting Duplicates - 6kyu
+
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
