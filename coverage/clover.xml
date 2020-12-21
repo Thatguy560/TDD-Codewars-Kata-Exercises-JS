@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608301428924" clover="3.2.0">
-  <project timestamp="1608301428924" name="All files">
-    <metrics statements="243" coveredstatements="240" conditionals="85" coveredconditionals="77" methods="77" coveredmethods="77" elements="405" coveredelements="394" complexity="0" loc="243" ncloc="243" packages="42" files="42" classes="42"/>
+<coverage generated="1608569221784" clover="3.2.0">
+  <project timestamp="1608569221784" name="All files">
+    <metrics statements="246" coveredstatements="243" conditionals="85" coveredconditionals="77" methods="80" coveredmethods="80" elements="411" coveredelements="400" complexity="0" loc="246" ncloc="246" packages="43" files="43" classes="43"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -45,6 +45,15 @@
         <line num="31" count="1" type="stmt"/>
         <line num="32" count="1" type="stmt"/>
         <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.movingZerosToEnd">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="movingZerosToEnd.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/movingZerosToEnd/movingZerosToEnd.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="9" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.simplePigLatin">

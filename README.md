@@ -88,6 +88,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 43) Counting Duplicates - 6kyu
 
+## 44) Moving Zeros To The End - 5kyu
 
 # Check Test Coverage 
 
