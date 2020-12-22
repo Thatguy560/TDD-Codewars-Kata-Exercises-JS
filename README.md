@@ -100,6 +100,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 49) Remove the minimum - 7kyu
 
+## 50) Don't give me five! - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
