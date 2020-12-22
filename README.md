@@ -96,6 +96,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 47) Super Duper Easy - 8kyu
 
+## 48) Number of People in the Bus - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

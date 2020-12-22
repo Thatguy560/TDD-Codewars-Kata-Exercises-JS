@@ -1,4 +1,4 @@
-## Find the Capitals Kata
+## Power of Two Kata
 
 ### Requirements 
 

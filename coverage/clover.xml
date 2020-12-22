@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608664278332" clover="3.2.0">
-  <project timestamp="1608664278332" name="All files">
-    <metrics statements="261" coveredstatements="258" conditionals="89" coveredconditionals="81" methods="87" coveredmethods="87" elements="437" coveredelements="426" complexity="0" loc="261" ncloc="261" packages="47" files="47" classes="47"/>
+<coverage generated="1608665931631" clover="3.2.0">
+  <project timestamp="1608665931631" name="All files">
+    <metrics statements="268" coveredstatements="265" conditionals="89" coveredconditionals="81" methods="88" coveredmethods="88" elements="445" coveredelements="434" complexity="0" loc="268" ncloc="268" packages="48" files="48" classes="48"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -439,6 +439,19 @@
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="11" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.numberOfPeopleInTheBus">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="numberOfPeopleInTheBus.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/numberOfPeopleInTheBus/numberOfPeopleInTheBus.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.onesAndZeros">
