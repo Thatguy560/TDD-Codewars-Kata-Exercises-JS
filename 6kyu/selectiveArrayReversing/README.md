@@ -1,4 +1,4 @@
-## Ten Minute Walk Kata
+## Selective Array Reversing Kata
 
 ### Requirements 
 

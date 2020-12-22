@@ -1,4 +1,4 @@
-## Unique In Order Kata
+## Disemvowel Trolls Kata
 
 ### Requirements 
 

@@ -1,4 +1,4 @@
-## Square Every Digit Kata
+## Who Likes It Kata
 
 ### Requirements 
 

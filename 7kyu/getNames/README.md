@@ -1,4 +1,4 @@
-## Highest and Lowest Kata
+## Get Names Kata
 
 ### Requirements 
 

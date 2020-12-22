@@ -1,4 +1,4 @@
-## Find the Capitals Kata
+## Array Filter Kata
 
 ### Requirements 
 

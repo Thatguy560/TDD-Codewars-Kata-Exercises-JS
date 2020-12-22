@@ -1,4 +1,4 @@
-## Find the Capitals Kata
+## Super Duper Easy Kata
 
 ### Requirements 
 
