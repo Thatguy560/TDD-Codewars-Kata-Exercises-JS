@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608661422341" clover="3.2.0">
-  <project timestamp="1608661422341" name="All files">
-    <metrics statements="257" coveredstatements="254" conditionals="87" coveredconditionals="79" methods="85" coveredmethods="85" elements="429" coveredelements="418" complexity="0" loc="257" ncloc="257" packages="45" files="45" classes="45"/>
+<coverage generated="1608663543345" clover="3.2.0">
+  <project timestamp="1608663543345" name="All files">
+    <metrics statements="259" coveredstatements="256" conditionals="89" coveredconditionals="81" methods="86" coveredmethods="86" elements="434" coveredelements="423" complexity="0" loc="259" ncloc="259" packages="46" files="46" classes="46"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -527,6 +527,14 @@
         <line num="2" count="4" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.superDuperEasy">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="superDuperEasy.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/superDuperEasy/superDuperEasy.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
   </project>

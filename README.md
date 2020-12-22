@@ -94,6 +94,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 46) Exes and Ohs - 7kyu
 
+## 47) Super Duper Easy - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
