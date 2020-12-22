@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608658634155" clover="3.2.0">
-  <project timestamp="1608658634155" name="All files">
-    <metrics statements="250" coveredstatements="247" conditionals="85" coveredconditionals="77" methods="82" coveredmethods="82" elements="417" coveredelements="406" complexity="0" loc="250" ncloc="250" packages="44" files="44" classes="44"/>
+<coverage generated="1608661422341" clover="3.2.0">
+  <project timestamp="1608661422341" name="All files">
+    <metrics statements="257" coveredstatements="254" conditionals="87" coveredconditionals="79" methods="85" coveredmethods="85" elements="429" coveredelements="418" complexity="0" loc="257" ncloc="257" packages="45" files="45" classes="45"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -318,6 +318,19 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.exesAndOhs">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="exesAndOhs.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/exesAndOhs/exesAndOhs.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.findTheCapitals">
