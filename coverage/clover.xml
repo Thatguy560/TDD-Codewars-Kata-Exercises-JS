@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608569221784" clover="3.2.0">
-  <project timestamp="1608569221784" name="All files">
-    <metrics statements="246" coveredstatements="243" conditionals="85" coveredconditionals="77" methods="80" coveredmethods="80" elements="411" coveredelements="400" complexity="0" loc="246" ncloc="246" packages="43" files="43" classes="43"/>
+<coverage generated="1608658634155" clover="3.2.0">
+  <project timestamp="1608658634155" name="All files">
+    <metrics statements="250" coveredstatements="247" conditionals="85" coveredconditionals="77" methods="82" coveredmethods="82" elements="417" coveredelements="406" complexity="0" loc="250" ncloc="250" packages="44" files="44" classes="44"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -416,6 +416,16 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.mumbling">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="mumbling.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/mumbling/mumbling.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="11" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.onesAndZeros">
