@@ -102,6 +102,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 50) Don't give me five! - 7kyu
 
+## 51) The highest profit wins! - 7kyu
+
+## 52) altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
