@@ -106,6 +106,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 52) altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
 
+## 53) CamelCase Method - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

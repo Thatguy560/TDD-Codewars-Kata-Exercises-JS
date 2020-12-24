@@ -1,4 +1,4 @@
-## Larger Product or Sum Kata
+## The highest profit wins! Kata
 
 ### Requirements 
 

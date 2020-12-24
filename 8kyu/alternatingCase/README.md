@@ -1,4 +1,4 @@
-## Array Filter Kata
+## altERnaTIng cAsE <=> ALTerNAtiNG CaSe Kata
 
 ### Requirements 
 

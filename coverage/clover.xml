@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608828474482" clover="3.2.0">
-  <project timestamp="1608828474483" name="All files">
-    <metrics statements="288" coveredstatements="285" conditionals="93" coveredconditionals="84" methods="94" coveredmethods="94" elements="475" coveredelements="463" complexity="0" loc="288" ncloc="288" packages="52" files="52" classes="52"/>
+<coverage generated="1608831176524" clover="3.2.0">
+  <project timestamp="1608831176525" name="All files">
+    <metrics statements="293" coveredstatements="290" conditionals="93" coveredconditionals="84" methods="97" coveredmethods="97" elements="483" coveredelements="471" complexity="0" loc="293" ncloc="293" packages="53" files="53" classes="53"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -76,6 +76,17 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="5" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.camelCaseMethod">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="camelCaseMethod.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/camelCaseMethod/camelCaseMethod.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.countingDuplicates">
