@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1608671572347" clover="3.2.0">
-  <project timestamp="1608671572347" name="All files">
-    <metrics statements="279" coveredstatements="276" conditionals="89" coveredconditionals="81" methods="91" coveredmethods="91" elements="459" coveredelements="448" complexity="0" loc="279" ncloc="279" packages="50" files="50" classes="50"/>
+<coverage generated="1608826891351" clover="3.2.0">
+  <project timestamp="1608826891351" name="All files">
+    <metrics statements="284" coveredstatements="281" conditionals="91" coveredconditionals="83" methods="92" coveredmethods="92" elements="467" coveredelements="456" complexity="0" loc="284" ncloc="284" packages="51" files="51" classes="51"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -400,6 +400,17 @@
         <line num="4" count="3" type="stmt"/>
         <line num="5" count="3" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.highestProfitWins">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="highestProfitWins.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/highestProfitWins/highestProfitWins.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.largeProductOrSum">
