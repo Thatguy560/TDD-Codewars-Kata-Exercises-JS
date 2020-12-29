@@ -110,6 +110,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 54) Sum of Positive - 8kyu 
 
+## 55) Stop gninnipS My sdroW! - 6kyu 
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
