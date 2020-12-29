@@ -108,6 +108,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 53) CamelCase Method - 6kyu
 
+## 54) Sum of Positive - 8kyu 
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
