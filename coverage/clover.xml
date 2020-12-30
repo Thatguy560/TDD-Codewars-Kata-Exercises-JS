@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1609283875304" clover="3.2.0">
-  <project timestamp="1609283875304" name="All files">
-    <metrics statements="300" coveredstatements="297" conditionals="95" coveredconditionals="86" methods="102" coveredmethods="102" elements="497" coveredelements="485" complexity="0" loc="300" ncloc="300" packages="55" files="55" classes="55"/>
+<coverage generated="1609332158127" clover="3.2.0">
+  <project timestamp="1609332158127" name="All files">
+    <metrics statements="304" coveredstatements="301" conditionals="97" coveredconditionals="88" methods="103" coveredmethods="103" elements="504" coveredelements="492" complexity="0" loc="304" ncloc="304" packages="56" files="56" classes="56"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -484,6 +484,16 @@
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="11" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.nextPerfectSquare">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="nextPerfectSquare.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/nextPerfectSquare/nextPerfectSquare.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.numberOfPeopleInTheBus">

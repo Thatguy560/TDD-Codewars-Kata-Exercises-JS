@@ -112,6 +112,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 55) Stop gninnipS My sdroW! - 6kyu 
 
+## 56) Find the next perfect square! - 7kyu 
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
