@@ -118,6 +118,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 58) WeIrD StRiNg CaSe - 6kyu
 
+## 59) Credit Card Mask - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
