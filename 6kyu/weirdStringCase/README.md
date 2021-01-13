@@ -18,7 +18,7 @@ toWeirdCase( "Weird string case" );//=> returns "WeIrD StRiNg CaSe"
 | Input                                          | Output |
 | :--------------------------------------------- | :----- |
 | "String"                           | "StRiNg"      |
-| "Weird string case"                        | "WeIrD StRiNg CaSe"   |
+| "Weird string case"                | "WeIrD StRiNg CaSe"   |
 
 
 

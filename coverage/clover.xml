@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610550355140" clover="3.2.0">
-  <project timestamp="1610550355140" name="All files">
-    <metrics statements="317" coveredstatements="314" conditionals="101" coveredconditionals="92" methods="109" coveredmethods="109" elements="527" coveredelements="515" complexity="0" loc="317" ncloc="317" packages="59" files="59" classes="59"/>
+<coverage generated="1610551938869" clover="3.2.0">
+  <project timestamp="1610551938869" name="All files">
+    <metrics statements="319" coveredstatements="316" conditionals="101" coveredconditionals="92" methods="110" coveredmethods="110" elements="530" coveredelements="518" complexity="0" loc="319" ncloc="319" packages="60" files="60" classes="60"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -625,6 +625,14 @@
       <file name="stringsToNumbers.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/stringsToNumbers/stringsToNumbers.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="3" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.validatePinCode">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="validatePinCode.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/validatePinCode/validatePinCode.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
       </file>
     </package>
