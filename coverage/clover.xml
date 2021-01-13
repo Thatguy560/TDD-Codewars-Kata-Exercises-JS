@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1609333337481" clover="3.2.0">
-  <project timestamp="1609333337481" name="All files">
-    <metrics statements="307" coveredstatements="304" conditionals="97" coveredconditionals="88" methods="105" coveredmethods="105" elements="509" coveredelements="497" complexity="0" loc="307" ncloc="307" packages="57" files="57" classes="57"/>
+<coverage generated="1610548250532" clover="3.2.0">
+  <project timestamp="1610548250532" name="All files">
+    <metrics statements="312" coveredstatements="309" conditionals="99" coveredconditionals="90" methods="108" coveredmethods="108" elements="519" coveredelements="507" complexity="0" loc="312" ncloc="312" packages="58" files="58" classes="58"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -264,6 +264,17 @@
         <line num="3" count="13" type="stmt"/>
         <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.weirdStringCase">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="weirdStringCase.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/weirdStringCase/weirdStringCase.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.whatCentury">

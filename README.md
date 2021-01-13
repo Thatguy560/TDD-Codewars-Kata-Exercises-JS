@@ -114,7 +114,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 56) Find the next perfect square! - 7kyu 
 
-## 57) Find the unique number - 6kyu 
+## 57) Find the unique number - 6kyu
+
+## 58) WeIrD StRiNg CaSe - 6kyu
 
 # Check Test Coverage 
 
