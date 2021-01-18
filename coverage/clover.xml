@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610985641332" clover="3.2.0">
-  <project timestamp="1610985641333" name="All files">
-    <metrics statements="326" coveredstatements="323" conditionals="103" coveredconditionals="94" methods="111" coveredmethods="111" elements="540" coveredelements="528" complexity="0" loc="326" ncloc="326" packages="61" files="61" classes="61"/>
+<coverage generated="1610987977872" clover="3.2.0">
+  <project timestamp="1610987977872" name="All files">
+    <metrics statements="334" coveredstatements="331" conditionals="107" coveredconditionals="97" methods="113" coveredmethods="113" elements="554" coveredelements="541" complexity="0" loc="334" ncloc="334" packages="62" files="62" classes="62"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -126,6 +126,20 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.mexicanWave">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="mexicanWave.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/mexicanWave/mexicanWave.js">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.replaceWithAlphabetPosition">
