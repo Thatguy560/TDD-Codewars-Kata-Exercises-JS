@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610989617798" clover="3.2.0">
-  <project timestamp="1610989617798" name="All files">
-    <metrics statements="341" coveredstatements="338" conditionals="117" coveredconditionals="106" methods="114" coveredmethods="114" elements="572" coveredelements="558" complexity="0" loc="341" ncloc="341" packages="63" files="63" classes="63"/>
+<coverage generated="1610991755514" clover="3.2.0">
+  <project timestamp="1610991755514" name="All files">
+    <metrics statements="347" coveredstatements="344" conditionals="119" coveredconditionals="108" methods="116" coveredmethods="116" elements="582" coveredelements="568" complexity="0" loc="347" ncloc="347" packages="64" files="64" classes="64"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -86,6 +86,18 @@
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.countCharsInString">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="countCharsInYourString.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/countCharsInString/countCharsInYourString.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="2" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
       </file>
     </package>
