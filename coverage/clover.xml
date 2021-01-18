@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610987977872" clover="3.2.0">
-  <project timestamp="1610987977872" name="All files">
-    <metrics statements="334" coveredstatements="331" conditionals="107" coveredconditionals="97" methods="113" coveredmethods="113" elements="554" coveredelements="541" complexity="0" loc="334" ncloc="334" packages="62" files="62" classes="62"/>
+<coverage generated="1610989617798" clover="3.2.0">
+  <project timestamp="1610989617798" name="All files">
+    <metrics statements="341" coveredstatements="338" conditionals="117" coveredconditionals="106" methods="114" coveredmethods="114" elements="572" coveredelements="558" complexity="0" loc="341" ncloc="341" packages="63" files="63" classes="63"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -690,6 +690,19 @@
         <line num="2" count="4" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.rockPaperScissors">
+      <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="rockPaperScissors.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/rockPaperScissors/rockPaperScissors.js">
+        <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
       </file>
     </package>
     <package name="8kyu.sumOfPositive">
