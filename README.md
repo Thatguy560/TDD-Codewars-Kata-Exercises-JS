@@ -122,6 +122,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 60) Regex validate PIN code - 7kyu
 
+## 61) Find the missing letter - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

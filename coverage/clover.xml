@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610551938869" clover="3.2.0">
-  <project timestamp="1610551938869" name="All files">
-    <metrics statements="319" coveredstatements="316" conditionals="101" coveredconditionals="92" methods="110" coveredmethods="110" elements="530" coveredelements="518" complexity="0" loc="319" ncloc="319" packages="60" files="60" classes="60"/>
+<coverage generated="1610985641332" clover="3.2.0">
+  <project timestamp="1610985641333" name="All files">
+    <metrics statements="326" coveredstatements="323" conditionals="103" coveredconditionals="94" methods="111" coveredmethods="111" elements="540" coveredelements="528" complexity="0" loc="326" ncloc="326" packages="61" files="61" classes="61"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -96,6 +96,19 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.findTheMissingLetter">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="findTheMissingLetter.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/findTheMissingLetter/findTheMissingLetter.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.findTheOddInt">
