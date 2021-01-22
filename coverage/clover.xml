@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611326898215" clover="3.2.0">
-  <project timestamp="1611326898215" name="All files">
-    <metrics statements="354" coveredstatements="351" conditionals="121" coveredconditionals="110" methods="117" coveredmethods="117" elements="592" coveredelements="578" complexity="0" loc="354" ncloc="354" packages="65" files="65" classes="65"/>
+<coverage generated="1611327876725" clover="3.2.0">
+  <project timestamp="1611327876725" name="All files">
+    <metrics statements="357" coveredstatements="354" conditionals="125" coveredconditionals="114" methods="119" coveredmethods="119" elements="601" coveredelements="587" complexity="0" loc="357" ncloc="357" packages="66" files="66" classes="66"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -394,6 +394,15 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.categorizeNewMember">
+      <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="categorizeNewMember.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/categorizeNewMember/categorizeNewMember.js">
+        <metrics statements="3" coveredstatements="3" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.creditCardMask">

@@ -130,6 +130,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 64) Two Sum - 6kyu
 
+## 65) Categorize New Member - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
