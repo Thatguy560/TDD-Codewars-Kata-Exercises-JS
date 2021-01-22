@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611327876725" clover="3.2.0">
-  <project timestamp="1611327876725" name="All files">
-    <metrics statements="357" coveredstatements="354" conditionals="125" coveredconditionals="114" methods="119" coveredmethods="119" elements="601" coveredelements="587" complexity="0" loc="357" ncloc="357" packages="66" files="66" classes="66"/>
+<coverage generated="1611330564705" clover="3.2.0">
+  <project timestamp="1611330564705" name="All files">
+    <metrics statements="373" coveredstatements="370" conditionals="131" coveredconditionals="120" methods="120" coveredmethods="120" elements="624" coveredelements="610" complexity="0" loc="373" ncloc="373" packages="67" files="67" classes="67"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -138,6 +138,28 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="7" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.formatStringOfNames">
+      <metrics statements="16" coveredstatements="16" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="formatStringOfNames.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/formatStringOfNames/formatStringOfNames.js">
+        <metrics statements="16" coveredstatements="16" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.mexicanWave">
