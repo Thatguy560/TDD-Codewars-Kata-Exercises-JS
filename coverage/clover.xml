@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1610991755514" clover="3.2.0">
-  <project timestamp="1610991755514" name="All files">
-    <metrics statements="347" coveredstatements="344" conditionals="119" coveredconditionals="108" methods="116" coveredmethods="116" elements="582" coveredelements="568" complexity="0" loc="347" ncloc="347" packages="64" files="64" classes="64"/>
+<coverage generated="1611326898215" clover="3.2.0">
+  <project timestamp="1611326898215" name="All files">
+    <metrics statements="354" coveredstatements="351" conditionals="121" coveredconditionals="110" methods="117" coveredmethods="117" elements="592" coveredelements="578" complexity="0" loc="354" ncloc="354" packages="65" files="65" classes="65"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -283,6 +283,19 @@
         <line num="9" count="1" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.twoSum">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="twoSum.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/twoSum/twoSum.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.uniqueInOrder">

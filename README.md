@@ -128,7 +128,7 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 63) Rock Paper Scissors! - 8kyu
 
-## 64) Count characters in your string - 6kyu
+## 64) Two Sum - 6kyu
 
 # Check Test Coverage 
 
