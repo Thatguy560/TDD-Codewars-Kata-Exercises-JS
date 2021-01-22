@@ -134,6 +134,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 66) Format a string of names like 'Bart, Lisa & Maggie'. - 6kyu
 
+## 67) Roman Numerals Decoder - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
