@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611332386846" clover="3.2.0">
-  <project timestamp="1611332386846" name="All files">
-    <metrics statements="385" coveredstatements="381" conditionals="133" coveredconditionals="121" methods="121" coveredmethods="121" elements="639" coveredelements="623" complexity="0" loc="385" ncloc="385" packages="68" files="68" classes="68"/>
+<coverage generated="1611580667918" clover="3.2.0">
+  <project timestamp="1611580667918" name="All files">
+    <metrics statements="391" coveredstatements="387" conditionals="137" coveredconditionals="125" methods="124" coveredmethods="124" elements="652" coveredelements="636" complexity="0" loc="391" ncloc="391" packages="69" files="69" classes="69"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -12,6 +12,18 @@
         <line num="4" count="3" type="stmt"/>
         <line num="5" count="3" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.hashtagGenerator">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="hashtagGenerator.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/hashtagGenerator/hashtagGenerator.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="14" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.jumbleSentence">
