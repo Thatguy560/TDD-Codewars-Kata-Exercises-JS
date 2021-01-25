@@ -136,6 +136,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 67) Roman Numerals Decoder - 6kyu
 
+## 68) The Hashtag Generator - 5kyu
+
+## 69) Count the smiley face! - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

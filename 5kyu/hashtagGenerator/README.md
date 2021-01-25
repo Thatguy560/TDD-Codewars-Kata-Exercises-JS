@@ -1,4 +1,4 @@
-## Roman Numerals Decoder Kata
+## The Hashtag Generator Kata
 
 ### Requirements 
 
