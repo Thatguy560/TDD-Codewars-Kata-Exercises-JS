@@ -1,4 +1,4 @@
-## Don't give me five! Kata
+## Alternate Capitalization Kata
 
 ### Requirements 
 

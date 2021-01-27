@@ -1,4 +1,4 @@
-## Regex validate PIN code Kata
+## Find numbers which are divisible by given number Kata
 
 ### Requirements 
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611759732010" clover="3.2.0">
-  <project timestamp="1611759732010" name="All files">
-    <metrics statements="406" coveredstatements="402" conditionals="145" coveredconditionals="133" methods="130" coveredmethods="130" elements="681" coveredelements="665" complexity="0" loc="406" ncloc="406" packages="72" files="72" classes="72"/>
+<coverage generated="1611762672944" clover="3.2.0">
+  <project timestamp="1611762672945" name="All files">
+    <metrics statements="425" coveredstatements="421" conditionals="167" coveredconditionals="153" methods="135" coveredmethods="135" elements="727" coveredelements="709" complexity="0" loc="425" ncloc="425" packages="73" files="73" classes="73"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -377,6 +377,31 @@
         <line num="3" count="13" type="stmt"/>
         <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.validateCreditCardNumber">
+      <metrics statements="19" coveredstatements="19" conditionals="22" coveredconditionals="20" methods="5" coveredmethods="5"/>
+      <file name="validateCreditCardNumber.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/validateCreditCardNumber/validateCreditCardNumber.js">
+        <metrics statements="19" coveredstatements="19" conditionals="22" coveredconditionals="20" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="21" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.weirdStringCase">
