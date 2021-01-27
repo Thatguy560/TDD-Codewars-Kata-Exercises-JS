@@ -142,6 +142,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 70) Find numbers which are divisible by given number - 8kyu
 
+## 71) Alternate capitalization - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

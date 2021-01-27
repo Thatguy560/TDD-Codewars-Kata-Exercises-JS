@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611757093820" clover="3.2.0">
-  <project timestamp="1611757093820" name="All files">
-    <metrics statements="396" coveredstatements="392" conditionals="137" coveredconditionals="125" methods="128" coveredmethods="128" elements="661" coveredelements="645" complexity="0" loc="396" ncloc="396" packages="71" files="71" classes="71"/>
+<coverage generated="1611759732010" clover="3.2.0">
+  <project timestamp="1611759732010" name="All files">
+    <metrics statements="406" coveredstatements="402" conditionals="145" coveredconditionals="133" methods="130" coveredmethods="130" elements="681" coveredelements="665" complexity="0" loc="406" ncloc="406" packages="72" files="72" classes="72"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -424,6 +424,22 @@
         <line num="3" count="15" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.alternateCapitalization">
+      <metrics statements="10" coveredstatements="10" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="alternateCapitalization.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/alternateCapitalization/alternateCapitalization.js">
+        <metrics statements="10" coveredstatements="10" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.alternateCase">
