@@ -140,6 +140,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 69) Count the smiley face! - 6kyu
 
+## 70) Find numbers which are divisible by given number - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

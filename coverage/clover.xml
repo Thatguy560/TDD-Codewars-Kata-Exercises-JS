@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611582227107" clover="3.2.0">
-  <project timestamp="1611582227107" name="All files">
-    <metrics statements="394" coveredstatements="390" conditionals="137" coveredconditionals="125" methods="126" coveredmethods="126" elements="657" coveredelements="641" complexity="0" loc="394" ncloc="394" packages="70" files="70" classes="70"/>
+<coverage generated="1611757093820" clover="3.2.0">
+  <project timestamp="1611757093820" name="All files">
+    <metrics statements="396" coveredstatements="392" conditionals="137" coveredconditionals="125" methods="128" coveredmethods="128" elements="661" coveredelements="645" complexity="0" loc="396" ncloc="396" packages="71" files="71" classes="71"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -755,6 +755,14 @@
       <file name="validatePinCode.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/validatePinCode/validatePinCode.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.DivisibleByGivenNumber">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="divisibleByGivenNumber.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/DivisibleByGivenNumber/divisibleByGivenNumber.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="6" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
       </file>
     </package>
