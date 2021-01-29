@@ -148,6 +148,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 73) Data Reverse - 6kyu
 
+## 74) Sum of a sequence - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
