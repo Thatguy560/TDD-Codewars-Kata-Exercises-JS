@@ -152,6 +152,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 75) String Array Duplicates - 6kyu
 
+## 76) Simple Fun #396: Find the Longest Substring Consisting of Unique Characters - 6kyu
+
+## 77) Correct Capitalization - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
