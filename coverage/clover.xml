@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1611934009482" clover="3.2.0">
-  <project timestamp="1611934009482" name="All files">
-    <metrics statements="438" coveredstatements="434" conditionals="167" coveredconditionals="153" methods="138" coveredmethods="138" elements="743" coveredelements="725" complexity="0" loc="438" ncloc="438" packages="75" files="75" classes="75"/>
+<coverage generated="1612197356540" clover="3.2.0">
+  <project timestamp="1612197356540" name="All files">
+    <metrics statements="446" coveredstatements="442" conditionals="169" coveredconditionals="155" methods="139" coveredmethods="139" elements="754" coveredelements="736" complexity="0" loc="446" ncloc="446" packages="76" files="76" classes="76"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -273,6 +273,20 @@
         <line num="5" count="3" type="stmt"/>
         <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
         <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.stringArrayDuplicates">
+      <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="stringArrayDuplicates.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/stringArrayDuplicates/stringArrayDuplicates.js">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.stringToCamelCase">
