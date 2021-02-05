@@ -1,14 +1,20 @@
 longestSubstringOf = (s) => {
-  let unique = [];
-  let i = 0;
-  const result = s.split("").reduce((arr, char) => {
-    i = unique.indexOf(char);
-    if (i !== -1) unique = unique.slice(i + 1);
-    unique.push(char);
-    !arr.includes(unique.length) && arr.push(unique.length);
-    return arr;
-  }, []);
-  return Math.max(...result);
+  let count = 0;
+
+  for (let i = 0; i < s.length; i++) {
+    let firstSet = new Set(s[i]);
+
+    for (let j = i + 1; j < s.length; j++) {
+      let nextCharacters = s[j];
+      if (firstSet.has(nextCharacters)) {
+        break;
+      } else {
+        firstSet.add(nextCharacters);
+      }
+      count = Math.max(count, firstSet.size);
+    }
+  }
+  return count;
 };
 
 module.exports = longestSubstringOf;

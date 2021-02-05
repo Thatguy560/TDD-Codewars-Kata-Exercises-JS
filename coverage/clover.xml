@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1612200641907" clover="3.2.0">
-  <project timestamp="1612200641907" name="All files">
-    <metrics statements="463" coveredstatements="459" conditionals="178" coveredconditionals="164" methods="142" coveredmethods="142" elements="783" coveredelements="765" complexity="0" loc="463" ncloc="463" packages="78" files="78" classes="78"/>
+<coverage generated="1612550261749" clover="3.2.0">
+  <project timestamp="1612550261749" name="All files">
+    <metrics statements="468" coveredstatements="464" conditionals="173" coveredconditionals="159" methods="142" coveredmethods="142" elements="783" coveredelements="765" complexity="0" loc="468" ncloc="468" packages="79" files="79" classes="79"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -196,20 +196,21 @@
       </file>
     </package>
     <package name="6kyu.longestSubstringUniqueCharacters">
-      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="longestSubStringUniqueCharacters.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/longestSubstringUniqueCharacters/longestSubStringUniqueCharacters.js">
-        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="6" type="stmt"/>
-        <line num="6" count="6" type="cond" truecount="2" falsecount="0"/>
         <line num="7" count="6" type="stmt"/>
-        <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
-        <line num="9" count="6" type="stmt"/>
-        <line num="11" count="1" type="stmt"/>
-        <line num="14" count="1" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.mexicanWave">
@@ -551,15 +552,12 @@
       </file>
     </package>
     <package name="7kyu.correctCapitalization">
-      <metrics statements="6" coveredstatements="6" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="correctCapitalization.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/correctCapitalization/correctCapitalization.js">
-        <metrics statements="6" coveredstatements="6" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
-        <line num="3" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="cond" truecount="5" falsecount="0"/>
-        <line num="13" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.creditCardMask">
@@ -753,6 +751,19 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.numbersToDigitTiers">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="numbersToDigitTiers.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/numbersToDigitTiers/numbersToDigitTiers.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
         <line num="5" count="3" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>

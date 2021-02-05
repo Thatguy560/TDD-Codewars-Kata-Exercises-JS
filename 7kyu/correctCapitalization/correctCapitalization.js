@@ -1,13 +1,8 @@
 cap = (word) => {
-  const allUpperCase = word.toUpperCase();
-  const allLowerCase = word.toLowerCase();
-  const firstLetterCapitalized =
-    word[0].toUpperCase() + word.slice(1).toLowerCase();
-  return word == allUpperCase ||
-    word == allLowerCase ||
-    word == firstLetterCapitalized
-    ? true
-    : false;
+  return (
+    word == word.toUpperCase() ||
+    word == word[0].toUpperCase() + word.slice(1).toLowerCase()
+  );
 };
 
 module.exports = cap;
