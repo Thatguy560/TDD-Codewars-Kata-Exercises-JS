@@ -158,6 +158,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 78) Number to digit tiers - 7kyu
 
+## 79) Hells Kitchen - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
