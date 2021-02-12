@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613147607560" clover="3.2.0">
-  <project timestamp="1613147607560" name="All files">
-    <metrics statements="464" coveredstatements="460" conditionals="171" coveredconditionals="157" methods="142" coveredmethods="142" elements="777" coveredelements="759" complexity="0" loc="464" ncloc="464" packages="79" files="79" classes="79"/>
+<coverage generated="1613153190619" clover="3.2.0">
+  <project timestamp="1613153190619" name="All files">
+    <metrics statements="471" coveredstatements="467" conditionals="171" coveredconditionals="157" methods="144" coveredmethods="144" elements="786" coveredelements="768" complexity="0" loc="471" ncloc="471" packages="80" files="80" classes="80"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -653,6 +653,19 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.hellsKitchen">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="hellsKitchen.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/hellsKitchen/hellsKitchen.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.highestAndLowest">
