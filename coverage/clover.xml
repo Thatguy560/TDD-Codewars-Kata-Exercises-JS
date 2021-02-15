@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613402897832" clover="3.2.0">
-  <project timestamp="1613402897832" name="All files">
-    <metrics statements="487" coveredstatements="483" conditionals="173" coveredconditionals="158" methods="150" coveredmethods="150" elements="810" coveredelements="791" complexity="0" loc="487" ncloc="487" packages="83" files="83" classes="83"/>
+<coverage generated="1613404383044" clover="3.2.0">
+  <project timestamp="1613404383044" name="All files">
+    <metrics statements="499" coveredstatements="495" conditionals="173" coveredconditionals="158" methods="157" coveredmethods="157" elements="829" coveredelements="810" complexity="0" loc="499" ncloc="499" packages="84" files="84" classes="84"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -499,6 +499,24 @@
         <line num="3" count="15" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.CharCodeCalculation">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+      <file name="CharCodeCalculation.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/CharCodeCalculation/CharCodeCalculation.js">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.alternateCapitalization">
