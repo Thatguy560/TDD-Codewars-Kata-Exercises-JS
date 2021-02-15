@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613406556981" clover="3.2.0">
-  <project timestamp="1613406556981" name="All files">
-    <metrics statements="504" coveredstatements="500" conditionals="173" coveredconditionals="158" methods="159" coveredmethods="159" elements="836" coveredelements="817" complexity="0" loc="504" ncloc="504" packages="85" files="85" classes="85"/>
+<coverage generated="1613432025319" clover="3.2.0">
+  <project timestamp="1613432025319" name="All files">
+    <metrics statements="510" coveredstatements="506" conditionals="175" coveredconditionals="160" methods="160" coveredmethods="160" elements="845" coveredelements="826" complexity="0" loc="510" ncloc="510" packages="86" files="86" classes="86"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -80,6 +80,18 @@
         <line num="11" count="7" type="stmt"/>
         <line num="14" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.1RMCalculator">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="1RMCalculator.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/1RMCalculator/1RMCalculator.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.arrayDiff">
