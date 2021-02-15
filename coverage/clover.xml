@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613404383044" clover="3.2.0">
-  <project timestamp="1613404383044" name="All files">
-    <metrics statements="499" coveredstatements="495" conditionals="173" coveredconditionals="158" methods="157" coveredmethods="157" elements="829" coveredelements="810" complexity="0" loc="499" ncloc="499" packages="84" files="84" classes="84"/>
+<coverage generated="1613406556981" clover="3.2.0">
+  <project timestamp="1613406556981" name="All files">
+    <metrics statements="504" coveredstatements="500" conditionals="173" coveredconditionals="158" methods="159" coveredmethods="159" elements="836" coveredelements="817" complexity="0" loc="504" ncloc="504" packages="85" files="85" classes="85"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -649,6 +649,17 @@
         <line num="9" count="8" type="stmt"/>
         <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.findScreenSize">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="findScreenSize.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/findScreenSize/findScreenSize.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.findTheCapitals">

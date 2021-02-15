@@ -168,6 +168,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 83) Char Code Calculation - 7kyu
 
+## 84) Find Screen Size - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
