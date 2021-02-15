@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613402060817" clover="3.2.0">
-  <project timestamp="1613402060817" name="All files">
-    <metrics statements="482" coveredstatements="478" conditionals="173" coveredconditionals="158" methods="149" coveredmethods="149" elements="804" coveredelements="785" complexity="0" loc="482" ncloc="482" packages="82" files="82" classes="82"/>
+<coverage generated="1613402897832" clover="3.2.0">
+  <project timestamp="1613402897832" name="All files">
+    <metrics statements="487" coveredstatements="483" conditionals="173" coveredconditionals="158" methods="150" coveredmethods="150" elements="810" coveredelements="791" complexity="0" loc="487" ncloc="487" packages="83" files="83" classes="83"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -841,6 +841,17 @@
         <line num="5" count="13" type="stmt"/>
         <line num="7" count="3" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.simpleLetterRemoval">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="simpleLetterRemoval.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/simpleLetterRemoval/simpleLetterRemoval.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="12" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.sortTheOdd">
