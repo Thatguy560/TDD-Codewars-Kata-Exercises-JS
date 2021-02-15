@@ -162,6 +162,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 80) Double Sort - 7kyu
 
+## 81) Pairs of Bears - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
