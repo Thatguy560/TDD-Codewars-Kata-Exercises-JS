@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1613432025319" clover="3.2.0">
-  <project timestamp="1613432025319" name="All files">
-    <metrics statements="510" coveredstatements="506" conditionals="175" coveredconditionals="160" methods="160" coveredmethods="160" elements="845" coveredelements="826" complexity="0" loc="510" ncloc="510" packages="86" files="86" classes="86"/>
+<coverage generated="1614181281538" clover="3.2.0">
+  <project timestamp="1614181281538" name="All files">
+    <metrics statements="513" coveredstatements="509" conditionals="177" coveredconditionals="162" methods="161" coveredmethods="161" elements="851" coveredelements="832" complexity="0" loc="513" ncloc="513" packages="87" files="87" classes="87"/>
     <package name="5kyu.domainName">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="domainName.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/domainName/domainName.js">
@@ -1026,6 +1026,15 @@
         <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.whoIsGoingToPayForTheWall">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="whoIsGoingToPayForTheWall.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/whoIsGoingToPayForTheWall/whoIsGoingToPayForTheWall.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
       </file>
     </package>
   </project>

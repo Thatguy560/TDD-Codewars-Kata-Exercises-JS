@@ -172,6 +172,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 84) 1RM Calculator - 6kyu
 
+## 85) Who is going to pay for the wall? - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
