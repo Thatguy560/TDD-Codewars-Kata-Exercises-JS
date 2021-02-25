@@ -174,6 +174,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 85) Who is going to pay for the wall? - 8kyu
 
+## 85) Count IP Addresses - 5kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
