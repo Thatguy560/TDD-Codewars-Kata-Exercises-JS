@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614259094147" clover="3.2.0">
-  <project timestamp="1614259094147" name="All files">
-    <metrics statements="526" coveredstatements="522" conditionals="180" coveredconditionals="163" methods="169" coveredmethods="169" elements="875" coveredelements="854" complexity="0" loc="526" ncloc="526" packages="89" files="89" classes="89"/>
+<coverage generated="1614261173506" clover="3.2.0">
+  <project timestamp="1614261173506" name="All files">
+    <metrics statements="532" coveredstatements="528" conditionals="180" coveredconditionals="163" methods="173" coveredmethods="173" elements="885" coveredelements="864" complexity="0" loc="532" ncloc="532" packages="90" files="90" classes="90"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -928,6 +928,18 @@
         <line num="2" count="11" type="stmt"/>
         <line num="3" count="11" type="cond" truecount="2" falsecount="0"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.spoonerizeMe">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="spoonerizeMe.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/spoonerizeMe/spoonerizeMe.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.squareEvenRootOdd">

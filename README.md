@@ -178,6 +178,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 86) Weight for weight - 5kyu
 
+## 87) Spoonerize Me - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
