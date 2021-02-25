@@ -180,6 +180,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 87) Spoonerize Me - 7kyu
 
+## 88) Human Readable Time - 5kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

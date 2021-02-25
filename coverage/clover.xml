@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614261173506" clover="3.2.0">
-  <project timestamp="1614261173506" name="All files">
-    <metrics statements="532" coveredstatements="528" conditionals="180" coveredconditionals="163" methods="173" coveredmethods="173" elements="885" coveredelements="864" complexity="0" loc="532" ncloc="532" packages="90" files="90" classes="90"/>
+<coverage generated="1614262718468" clover="3.2.0">
+  <project timestamp="1614262718469" name="All files">
+    <metrics statements="538" coveredstatements="534" conditionals="180" coveredconditionals="163" methods="174" coveredmethods="174" elements="892" coveredelements="871" complexity="0" loc="538" ncloc="538" packages="91" files="91" classes="91"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -37,6 +37,18 @@
         <line num="5" count="2" type="stmt"/>
         <line num="6" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.humanReadableTime">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="humanReadableTime.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/humanReadableTime/humanReadableTime.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.jumbleSentence">
