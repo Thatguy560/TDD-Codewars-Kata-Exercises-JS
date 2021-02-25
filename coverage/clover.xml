@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614257012052" clover="3.2.0">
-  <project timestamp="1614257012052" name="All files">
-    <metrics statements="520" coveredstatements="516" conditionals="177" coveredconditionals="162" methods="165" coveredmethods="165" elements="862" coveredelements="843" complexity="0" loc="520" ncloc="520" packages="88" files="88" classes="88"/>
+<coverage generated="1614259094147" clover="3.2.0">
+  <project timestamp="1614259094147" name="All files">
+    <metrics statements="526" coveredstatements="522" conditionals="180" coveredconditionals="163" methods="169" coveredmethods="169" elements="875" coveredelements="854" complexity="0" loc="526" ncloc="526" packages="89" files="89" classes="89"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -93,6 +93,18 @@
         <line num="11" count="7" type="stmt"/>
         <line num="14" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.weightForWeight">
+      <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="1" methods="4" coveredmethods="4"/>
+      <file name="weightForWeight.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/weightForWeight/weightForWeight.js">
+        <metrics statements="6" coveredstatements="6" conditionals="3" coveredconditionals="1" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="47" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="7" type="cond" truecount="1" falsecount="2"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.1RMCalculator">
