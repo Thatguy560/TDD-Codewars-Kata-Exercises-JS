@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614262718468" clover="3.2.0">
-  <project timestamp="1614262718469" name="All files">
-    <metrics statements="538" coveredstatements="534" conditionals="180" coveredconditionals="163" methods="174" coveredmethods="174" elements="892" coveredelements="871" complexity="0" loc="538" ncloc="538" packages="91" files="91" classes="91"/>
+<coverage generated="1614343082011" clover="3.2.0">
+  <project timestamp="1614343082012" name="All files">
+    <metrics statements="543" coveredstatements="539" conditionals="180" coveredconditionals="163" methods="175" coveredmethods="175" elements="898" coveredelements="877" complexity="0" loc="543" ncloc="543" packages="92" files="92" classes="92"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -685,6 +685,17 @@
         <line num="5" count="7" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.elapsedSeconds">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="elapsedSeconds.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/elapsedSeconds/elapsedSeconds.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.exesAndOhs">

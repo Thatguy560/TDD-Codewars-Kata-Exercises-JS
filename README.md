@@ -182,6 +182,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 88) Human Readable Time - 5kyu
 
+## 89) Elapsed Seconds - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
