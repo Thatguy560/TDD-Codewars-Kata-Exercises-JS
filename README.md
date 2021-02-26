@@ -186,6 +186,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 90) Mean Square Error - 5kyu
 
+## 91) Simple Fun #256: Two Arrays Nth Element - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
