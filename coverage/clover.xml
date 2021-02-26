@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614343082011" clover="3.2.0">
-  <project timestamp="1614343082012" name="All files">
-    <metrics statements="543" coveredstatements="539" conditionals="180" coveredconditionals="163" methods="175" coveredmethods="175" elements="898" coveredelements="877" complexity="0" loc="543" ncloc="543" packages="92" files="92" classes="92"/>
+<coverage generated="1614343830940" clover="3.2.0">
+  <project timestamp="1614343830940" name="All files">
+    <metrics statements="550" coveredstatements="546" conditionals="180" coveredconditionals="163" methods="178" coveredmethods="178" elements="908" coveredelements="887" complexity="0" loc="550" ncloc="550" packages="93" files="93" classes="93"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -82,6 +82,19 @@
         <line num="31" count="1" type="stmt"/>
         <line num="32" count="1" type="stmt"/>
         <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.meanSqaureError">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="meanSquareError.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/meanSqaureError/meanSquareError.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.movingZerosToEnd">
