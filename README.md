@@ -188,6 +188,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 91) Simple Fun #256: Two Arrays Nth Element - 6kyu
 
+## 92) Write Number in Expanded Form - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
