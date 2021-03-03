@@ -196,6 +196,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 97) Evens times last - 7kyu
 
+## 98) Number of trailing zeros of N! - 5kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
