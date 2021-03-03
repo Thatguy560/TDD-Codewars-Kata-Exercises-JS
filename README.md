@@ -170,29 +170,31 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 84) Find Screen Size - 7kyu
 
-## 84) 1RM Calculator - 6kyu
+## 85) 1RM Calculator - 6kyu
 
-## 85) Who is going to pay for the wall? - 8kyu
+## 86) Who is going to pay for the wall? - 8kyu
 
-## 85) Count IP Addresses - 5kyu
+## 87) Count IP Addresses - 5kyu
 
-## 86) Weight for weight - 5kyu
+## 88) Weight for weight - 5kyu
 
-## 87) Spoonerize Me - 7kyu
+## 89) Spoonerize Me - 7kyu
 
-## 88) Human Readable Time - 5kyu
+## 90) Human Readable Time - 5kyu
 
-## 89) Elapsed Seconds - 7kyu
+## 91) Elapsed Seconds - 7kyu
 
-## 90) Mean Square Error - 5kyu
+## 92) Mean Square Error - 5kyu
 
-## 91) Simple Fun #256: Two Arrays Nth Element - 6kyu
+## 93) Simple Fun #256: Two Arrays Nth Element - 6kyu
 
-## 92) Write Number in Expanded Form - 6kyu
+## 94) Write Number in Expanded Form - 6kyu
 
-## 93) Shifter words - 7kyu
+## 95) Shifter words - 7kyu
 
-## 94) Get the integers between two numbers - 7kyu
+## 96) Get the integers between two numbers - 7kyu
+
+## 97) Evens times last - 7kyu
 
 # Check Test Coverage 
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1614776098325" clover="3.2.0">
-  <project timestamp="1614776098325" name="All files">
-    <metrics statements="575" coveredstatements="571" conditionals="182" coveredconditionals="165" methods="183" coveredmethods="183" elements="940" coveredelements="919" complexity="0" loc="575" ncloc="575" packages="97" files="97" classes="97"/>
+<coverage generated="1614778800157" clover="3.2.0">
+  <project timestamp="1614778800157" name="All files">
+    <metrics statements="582" coveredstatements="578" conditionals="186" coveredconditionals="169" methods="186" coveredmethods="186" elements="954" coveredelements="933" complexity="0" loc="582" ncloc="582" packages="98" files="98" classes="98"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -736,6 +736,19 @@
         <line num="2" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.evensTimesLast">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="evensTimesLast.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/evensTimesLast/evensTimesLast.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="11" count="1" type="stmt"/>
       </file>
     </package>
