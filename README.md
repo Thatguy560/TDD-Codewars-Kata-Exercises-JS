@@ -192,6 +192,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 93) Shifter words - 7kyu
 
+## 94) Get the integers between two numbers - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
