@@ -200,6 +200,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 99) Over The Road - 7kyu
 
+## 100) number with 3 roots - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

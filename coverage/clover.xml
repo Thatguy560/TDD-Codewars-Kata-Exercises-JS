@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615211373767" clover="3.2.0">
-  <project timestamp="1615211373768" name="All files">
-    <metrics statements="593" coveredstatements="589" conditionals="186" coveredconditionals="169" methods="188" coveredmethods="188" elements="967" coveredelements="946" complexity="0" loc="593" ncloc="593" packages="100" files="100" classes="100"/>
+<coverage generated="1615213232607" clover="3.2.0">
+  <project timestamp="1615213232607" name="All files">
+    <metrics statements="596" coveredstatements="592" conditionals="186" coveredconditionals="169" methods="189" coveredmethods="189" elements="971" coveredelements="950" complexity="0" loc="596" ncloc="596" packages="101" files="101" classes="101"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -954,6 +954,15 @@
         <line num="5" count="3" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.numberWith3Roots">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="numberWith3Roots.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/numberWith3Roots/numberWith3Roots.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.numbersToDigitTiers">
