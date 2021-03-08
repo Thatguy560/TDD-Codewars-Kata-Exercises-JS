@@ -202,6 +202,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 100) number with 3 roots - 7kyu
 
+## 101) If you can read this... - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

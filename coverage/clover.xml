@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615213232607" clover="3.2.0">
-  <project timestamp="1615213232607" name="All files">
-    <metrics statements="596" coveredstatements="592" conditionals="186" coveredconditionals="169" methods="189" coveredmethods="189" elements="971" coveredelements="950" complexity="0" loc="596" ncloc="596" packages="101" files="101" classes="101"/>
+<coverage generated="1615214572796" clover="3.2.0">
+  <project timestamp="1615214572796" name="All files">
+    <metrics statements="602" coveredstatements="598" conditionals="186" coveredconditionals="169" methods="192" coveredmethods="192" elements="980" coveredelements="959" complexity="0" loc="602" ncloc="602" packages="102" files="102" classes="102"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -268,6 +268,18 @@
         <line num="15" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.ifYouCanReadThis">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="ifYouCanReadThis.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/ifYouCanReadThis/ifYouCanReadThis.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="15" type="stmt"/>
+        <line num="37" count="15" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.longestSubstringUniqueCharacters">
