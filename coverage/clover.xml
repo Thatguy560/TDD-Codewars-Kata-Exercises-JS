@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615992898285" clover="3.2.0">
-  <project timestamp="1615992898285" name="All files">
-    <metrics statements="620" coveredstatements="616" conditionals="190" coveredconditionals="173" methods="194" coveredmethods="194" elements="1004" coveredelements="983" complexity="0" loc="620" ncloc="620" packages="104" files="104" classes="104"/>
+<coverage generated="1615994051243" clover="3.2.0">
+  <project timestamp="1615994051244" name="All files">
+    <metrics statements="624" coveredstatements="620" conditionals="190" coveredconditionals="173" methods="196" coveredmethods="196" elements="1010" coveredelements="989" complexity="0" loc="624" ncloc="624" packages="105" files="105" classes="105"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1085,6 +1085,16 @@
         <line num="2" count="11" type="stmt"/>
         <line num="3" count="11" type="cond" truecount="2" falsecount="0"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.sortbyLastChar">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="sortbyLastChar.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/sortbyLastChar/sortbyLastChar.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.spoonerizeMe">
