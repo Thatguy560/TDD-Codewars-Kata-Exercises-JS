@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615991053910" clover="3.2.0">
-  <project timestamp="1615991053910" name="All files">
-    <metrics statements="611" coveredstatements="607" conditionals="186" coveredconditionals="169" methods="193" coveredmethods="193" elements="990" coveredelements="969" complexity="0" loc="611" ncloc="611" packages="103" files="103" classes="103"/>
+<coverage generated="1615992898285" clover="3.2.0">
+  <project timestamp="1615992898285" name="All files">
+    <metrics statements="620" coveredstatements="616" conditionals="190" coveredconditionals="173" methods="194" coveredmethods="194" elements="1004" coveredelements="983" complexity="0" loc="620" ncloc="620" packages="104" files="104" classes="104"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1220,6 +1220,21 @@
         <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.totalAmountOfPoints">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="totalAmountOfPoints.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/totalAmountOfPoints/totalAmountOfPoints.js">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="10" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="8kyu.whoIsGoingToPayForTheWall">

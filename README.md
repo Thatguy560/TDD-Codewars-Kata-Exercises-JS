@@ -206,6 +206,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 102) Roman Numerals Encoder - 6kyu
 
+## 103) Total amount of points - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
