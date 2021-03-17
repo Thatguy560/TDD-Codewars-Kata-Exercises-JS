@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1615994051243" clover="3.2.0">
-  <project timestamp="1615994051244" name="All files">
-    <metrics statements="624" coveredstatements="620" conditionals="190" coveredconditionals="173" methods="196" coveredmethods="196" elements="1010" coveredelements="989" complexity="0" loc="624" ncloc="624" packages="105" files="105" classes="105"/>
+<coverage generated="1615994890450" clover="3.2.0">
+  <project timestamp="1615994890450" name="All files">
+    <metrics statements="629" coveredstatements="625" conditionals="192" coveredconditionals="175" methods="199" coveredmethods="199" elements="1020" coveredelements="999" complexity="0" loc="629" ncloc="629" packages="106" files="106" classes="106"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1201,6 +1201,17 @@
         <line num="2" count="4" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.isThereAVowelInThere">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <file name="isThereAVowelInThere.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/isThereAVowelInThere/isThereAVowelInThere.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="11" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="1" type="stmt"/>
       </file>
     </package>
     <package name="8kyu.rockPaperScissors">
