@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617120762481" clover="3.2.0">
-  <project timestamp="1617120762482" name="All files">
-    <metrics statements="639" coveredstatements="635" conditionals="192" coveredconditionals="175" methods="203" coveredmethods="203" elements="1034" coveredelements="1013" complexity="0" loc="639" ncloc="639" packages="109" files="109" classes="109"/>
+<coverage generated="1617122602435" clover="3.2.0">
+  <project timestamp="1617122602435" name="All files">
+    <metrics statements="645" coveredstatements="641" conditionals="194" coveredconditionals="177" methods="204" coveredmethods="204" elements="1043" coveredelements="1022" complexity="0" loc="645" ncloc="645" packages="110" files="110" classes="110"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1269,6 +1269,18 @@
         <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.toSquareOrNotToSquare">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="toSquareOrNotToSquare.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/toSquareOrNotToSquare/toSquareOrNotToSquare.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="8kyu.totalAmountOfPoints">
