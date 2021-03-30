@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617118058071" clover="3.2.0">
-  <project timestamp="1617118058071" name="All files">
-    <metrics statements="636" coveredstatements="632" conditionals="192" coveredconditionals="175" methods="201" coveredmethods="201" elements="1029" coveredelements="1008" complexity="0" loc="636" ncloc="636" packages="108" files="108" classes="108"/>
+<coverage generated="1617120762481" clover="3.2.0">
+  <project timestamp="1617120762482" name="All files">
+    <metrics statements="639" coveredstatements="635" conditionals="192" coveredconditionals="175" methods="203" coveredmethods="203" elements="1034" coveredelements="1013" complexity="0" loc="639" ncloc="639" packages="109" files="109" classes="109"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -937,6 +937,15 @@
         <line num="18" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="19" count="1" type="stmt"/>
         <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.listFiltering">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="listFiltering.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/listFiltering/listFiltering.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.lostNumberInSequence">
