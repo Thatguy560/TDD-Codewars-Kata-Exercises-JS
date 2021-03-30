@@ -214,6 +214,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 106) All Unique - 7kyu
 
+## 107) Sum of odd numbers - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
