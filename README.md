@@ -220,6 +220,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 109) To square(root) or not to square(root) - 8kyu
 
+## 110) Small enough? - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
