@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617141988650" clover="3.2.0">
-  <project timestamp="1617141988650" name="All files">
-    <metrics statements="659" coveredstatements="655" conditionals="194" coveredconditionals="177" methods="208" coveredmethods="208" elements="1061" coveredelements="1040" complexity="0" loc="659" ncloc="659" packages="112" files="112" classes="112"/>
+<coverage generated="1617715226360" clover="3.2.0">
+  <project timestamp="1617715226360" name="All files">
+    <metrics statements="663" coveredstatements="659" conditionals="194" coveredconditionals="177" methods="210" coveredmethods="210" elements="1067" coveredelements="1046" complexity="0" loc="663" ncloc="663" packages="113" files="113" classes="113"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1210,6 +1210,16 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.tapCodeTranslation">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="tapCodeTranslation.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/tapCodeTranslation/tapCodeTranslation.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.validatePinCode">

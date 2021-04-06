@@ -224,6 +224,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 111) Rotate for a max - 7kyu
 
+## 112) Tap Code Translation - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
