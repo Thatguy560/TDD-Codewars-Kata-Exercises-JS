@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617896035245" clover="3.2.0">
-  <project timestamp="1617896035245" name="All files">
-    <metrics statements="694" coveredstatements="690" conditionals="206" coveredconditionals="189" methods="217" coveredmethods="217" elements="1117" coveredelements="1096" complexity="0" loc="694" ncloc="694" packages="116" files="116" classes="116"/>
+<coverage generated="1617903369013" clover="3.2.0">
+  <project timestamp="1617903369013" name="All files">
+    <metrics statements="697" coveredstatements="693" conditionals="208" coveredconditionals="191" methods="218" coveredmethods="218" elements="1123" coveredelements="1102" complexity="0" loc="697" ncloc="697" packages="117" files="117" classes="117"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1269,6 +1269,15 @@
         <line num="2" count="1" type="stmt"/>
         <line num="30" count="5" type="stmt"/>
         <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.theOfficeIV">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="TheOfficeIVFindaMeetingRoom.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/theOfficeIV/TheOfficeIVFindaMeetingRoom.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.validatePinCode">
