@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617892742309" clover="3.2.0">
-  <project timestamp="1617892742309" name="All files">
-    <metrics statements="680" coveredstatements="676" conditionals="196" coveredconditionals="179" methods="213" coveredmethods="213" elements="1089" coveredelements="1068" complexity="0" loc="680" ncloc="680" packages="115" files="115" classes="115"/>
+<coverage generated="1617896035245" clover="3.2.0">
+  <project timestamp="1617896035245" name="All files">
+    <metrics statements="694" coveredstatements="690" conditionals="206" coveredconditionals="189" methods="217" coveredmethods="217" elements="1117" coveredelements="1096" complexity="0" loc="694" ncloc="694" packages="116" files="116" classes="116"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1071,6 +1071,26 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.paulsMisery">
+      <metrics statements="14" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4"/>
+      <file name="paulsMisery.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/paulsMisery/paulsMisery.js">
+        <metrics statements="14" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="28" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="6" count="26" type="stmt"/>
+        <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.powerOfTwo">

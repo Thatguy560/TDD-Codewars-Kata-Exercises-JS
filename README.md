@@ -230,6 +230,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 114) Maximum subarray sum - 5kyu
 
+## 115) Paul's Misery - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
