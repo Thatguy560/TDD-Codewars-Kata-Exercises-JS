@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617890750422" clover="3.2.0">
-  <project timestamp="1617890750422" name="All files">
-    <metrics statements="671" coveredstatements="667" conditionals="196" coveredconditionals="179" methods="212" coveredmethods="212" elements="1079" coveredelements="1058" complexity="0" loc="671" ncloc="671" packages="114" files="114" classes="114"/>
+<coverage generated="1617892742309" clover="3.2.0">
+  <project timestamp="1617892742309" name="All files">
+    <metrics statements="680" coveredstatements="676" conditionals="196" coveredconditionals="179" methods="213" coveredmethods="213" elements="1089" coveredelements="1068" complexity="0" loc="680" ncloc="680" packages="115" files="115" classes="115"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -82,6 +82,21 @@
         <line num="31" count="1" type="stmt"/>
         <line num="32" count="1" type="stmt"/>
         <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.maximumSubarraySum">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="maximumSubarraySum.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/maximumSubarraySum/maximumSubarraySum.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.meanSqaureError">

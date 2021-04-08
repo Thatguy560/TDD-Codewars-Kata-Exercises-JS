@@ -228,6 +228,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 113) Inside Out Strings - 6kyu
 
+## 114) Maximum subarray sum - 5kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
