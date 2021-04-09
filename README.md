@@ -236,6 +236,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 117) The Office VI - Sabbatical - 7kyu
 
+## 118) Drink about - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
