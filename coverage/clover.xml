@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1617903369013" clover="3.2.0">
-  <project timestamp="1617903369013" name="All files">
-    <metrics statements="697" coveredstatements="693" conditionals="208" coveredconditionals="191" methods="218" coveredmethods="218" elements="1123" coveredelements="1102" complexity="0" loc="697" ncloc="697" packages="117" files="117" classes="117"/>
+<coverage generated="1617971973981" clover="3.2.0">
+  <project timestamp="1617971973982" name="All files">
+    <metrics statements="703" coveredstatements="699" conditionals="210" coveredconditionals="193" methods="220" coveredmethods="220" elements="1133" coveredelements="1112" complexity="0" loc="703" ncloc="703" packages="118" files="118" classes="118"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1278,6 +1278,18 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="4" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.theOfficeVISabbatical">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="theOfficeVISabbatical.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/theOfficeVISabbatical/theOfficeVISabbatical.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="19" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.validatePinCode">

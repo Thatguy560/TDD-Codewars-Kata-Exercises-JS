@@ -234,6 +234,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 116) The Office IV - Find a Meeting Room - 7kyu
 
+## 117) The Office VI - Sabbatical - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
