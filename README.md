@@ -238,6 +238,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 118) Drink about - 8kyu
 
+## 119) All Star Code Challenge #20 - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
