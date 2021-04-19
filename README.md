@@ -240,6 +240,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 119) All Star Code Challenge #20 - 7kyu
 
+## 120) Coding Meetup #15 - Higher-Order Functions Series - Find the odd names - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

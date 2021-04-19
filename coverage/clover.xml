@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1618845458119" clover="3.2.0">
-  <project timestamp="1618845458119" name="All files">
-    <metrics statements="711" coveredstatements="707" conditionals="218" coveredconditionals="201" methods="223" coveredmethods="223" elements="1152" coveredelements="1131" complexity="0" loc="711" ncloc="711" packages="120" files="120" classes="120"/>
+<coverage generated="1618858772263" clover="3.2.0">
+  <project timestamp="1618858772264" name="All files">
+    <metrics statements="716" coveredstatements="712" conditionals="218" coveredconditionals="201" methods="226" coveredmethods="226" elements="1160" coveredelements="1139" complexity="0" loc="716" ncloc="716" packages="121" files="121" classes="121"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -283,6 +283,17 @@
         <line num="15" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
         <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.higherOrderFunctionsSeriesFindTheOddNames">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="higherOrderFunctionsSeriesFindTheOddNames.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/higherOrderFunctionsSeriesFindTheOddNames/higherOrderFunctionsSeriesFindTheOddNames.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="6" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.ifYouCanReadThis">
