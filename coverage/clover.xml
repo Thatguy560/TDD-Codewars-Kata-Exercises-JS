@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1618867753257" clover="3.2.0">
-  <project timestamp="1618867753257" name="All files">
-    <metrics statements="720" coveredstatements="716" conditionals="218" coveredconditionals="201" methods="228" coveredmethods="228" elements="1166" coveredelements="1145" complexity="0" loc="720" ncloc="720" packages="122" files="122" classes="122"/>
+<coverage generated="1618921735552" clover="3.2.0">
+  <project timestamp="1618921735552" name="All files">
+    <metrics statements="727" coveredstatements="723" conditionals="218" coveredconditionals="201" methods="229" coveredmethods="229" elements="1174" coveredelements="1153" complexity="0" loc="727" ncloc="727" packages="123" files="123" classes="123"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -178,6 +178,19 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="5" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.buildTower">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="buildTower.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/buildTower/buildTower.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.camelCaseMethod">

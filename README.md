@@ -244,6 +244,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 121) Which are in? - 6kyu
 
+## 122) Build Tower - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
