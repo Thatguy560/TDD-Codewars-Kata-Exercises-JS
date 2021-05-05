@@ -246,8 +246,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 122) Build Tower - 6kyu
 
-## 123) Harvest Festival - 6kyu
+## 123) Harvest Festival - 7kyu
 
+## 124) Find the vowels - 7kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
