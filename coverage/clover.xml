@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620248418861" clover="3.2.0">
-  <project timestamp="1620248418861" name="All files">
-    <metrics statements="737" coveredstatements="733" conditionals="224" coveredconditionals="207" methods="231" coveredmethods="231" elements="1192" coveredelements="1171" complexity="0" loc="737" ncloc="737" packages="125" files="125" classes="125"/>
+<coverage generated="1620314918134" clover="3.2.0">
+  <project timestamp="1620314918134" name="All files">
+    <metrics statements="754" coveredstatements="750" conditionals="226" coveredconditionals="208" methods="238" coveredmethods="238" elements="1218" coveredelements="1196" complexity="0" loc="754" ncloc="754" packages="127" files="127" classes="127"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -549,6 +549,35 @@
         <line num="9" count="1" type="stmt"/>
         <line num="11" count="0" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.turnStringInputIntoHash">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <file name="turnStringInputIntoHash.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/turnStringInputIntoHash/turnStringInputIntoHash.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.twistedSum">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="twistedSum.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/twistedSum/twistedSum.js">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="13" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="13" type="stmt"/>
+        <line num="9" count="16" type="stmt"/>
+        <line num="10" count="15" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.twoArraysNthElement">

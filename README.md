@@ -249,6 +249,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 123) Harvest Festival - 7kyu
 
 ## 124) Find the vowels - 7kyu
+
+## 125) Twisted Sum - 6kyu
+
+## 126) Turn String Input into Hash - 6kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
