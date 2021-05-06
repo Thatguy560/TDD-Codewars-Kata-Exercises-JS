@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620314918134" clover="3.2.0">
-  <project timestamp="1620314918134" name="All files">
-    <metrics statements="754" coveredstatements="750" conditionals="226" coveredconditionals="208" methods="238" coveredmethods="238" elements="1218" coveredelements="1196" complexity="0" loc="754" ncloc="754" packages="127" files="127" classes="127"/>
+<coverage generated="1620318017617" clover="3.2.0">
+  <project timestamp="1620318017617" name="All files">
+    <metrics statements="759" coveredstatements="755" conditionals="226" coveredconditionals="208" methods="239" coveredmethods="239" elements="1224" coveredelements="1202" complexity="0" loc="759" ncloc="759" packages="128" files="128" classes="128"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1386,6 +1386,17 @@
         <line num="6" count="2" type="stmt"/>
         <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.timeConverterHoursMinutesSecondsAndMilliseconds">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="timeConverterHoursMinutesSecondsAndMilliseconds.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/timeConverterHoursMinutesSecondsAndMilliseconds/timeConverterHoursMinutesSecondsAndMilliseconds.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.validatePinCode">
