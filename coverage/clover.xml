@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620675832524" clover="3.2.0">
-  <project timestamp="1620675832524" name="All files">
-    <metrics statements="765" coveredstatements="761" conditionals="226" coveredconditionals="208" methods="240" coveredmethods="240" elements="1231" coveredelements="1209" complexity="0" loc="765" ncloc="765" packages="129" files="129" classes="129"/>
+<coverage generated="1620684362002" clover="3.2.0">
+  <project timestamp="1620684362002" name="All files">
+    <metrics statements="771" coveredstatements="767" conditionals="226" coveredconditionals="208" methods="243" coveredmethods="243" elements="1240" coveredelements="1218" complexity="0" loc="771" ncloc="771" packages="130" files="130" classes="130"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -760,6 +760,18 @@
         <line num="2" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.alphabetSymmetry">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="alphabetSymmetry.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/alphabetSymmetry/alphabetSymmetry.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.alternateCapitalization">
