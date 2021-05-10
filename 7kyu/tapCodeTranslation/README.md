@@ -1,44 +1,39 @@
-## Tap Code Translation
+## Sum of Triangular Numbers
 
 ### Requirements 
 
-Tap code is a way to communicate using a series of taps and pauses for each letter. In this kata, we will use dots . for the taps and whitespaces for the pauses.
+Your task is to return the sum of Triangular Numbers up-to-and-including the nth Triangular Number.
 
-The number of taps needed for each letter matches its coordinates in the following polybius square (note the c/k position). Then you "tap" the row, a pause, then the column. Each letter is separated from others with a pause too.
-
-```
-   1  2  3  4  5
-1  A  B C\K D  E
-2  F  G  H  I  J
-3  L  M  N  O  P
-4  Q  R  S  T  U
-5  V  W  X  Y  Z
-
-text = "dot"
-  "D" = (1, 4) = ". ...."
-  "O" = (3, 4) = "... ...."
-  "T" = (4, 4) = ".... ...."
-  
-output: ". .... ... .... .... ...."
-
-
-"example" -> ". ..... ..... ... . . ... .. ... ..... ... . . ....."
-"more"    -> "... .. ... .... .... .. . ....."
+Triangular Number: "any of the series of numbers (1, 3, 6, 10, 15, etc.) obtained by continued summation of the natural numbers 1, 2, 3, 4, 5, etc."
 
 ```
+[01]
+02 [03]
+04 05 [06]
+07 08 09 [10]
+11 12 13 14 [15]
+16 17 18 19 20 [21]
+```
+
+e.g. If 4 is given: 1 + 3 + 6 + 10 = 20.
+
+Triangular Numbers cannot be negative so return 0 if a negative number is given.
 
 ### Test Cases
 
 ```JavaScript
-tapCodeTranslation("test"),  ".... .... . ..... .... ... .... ...."
-tapCodeTranslation("total"),  ".... .... ... .... .... .... . . ... ."
+sumTriangularNumbers(6), 56
+sumTriangularNumbers(943), 140205240
+sumTriangularNumbers(-971), 0
 ```
 
 ### Input/Output Table
 
-| Input                                          | Output |
-| :--------------------------------------------- | :----- |
-| "break"                                        | ". .. .... .. . ..... . . . ..."   | 
-| "something"                                     | ".... ... ... .... ... .. . ..... .... .... .. ... .. .... ... ... .. .."   | 
+| Input                               | Output |
+| :---------------------------------- | :----- |
+| 6                             |  56   | 
+| 34                             |  7140   | 
+| 943                             |  140205240   | 
+
 
 

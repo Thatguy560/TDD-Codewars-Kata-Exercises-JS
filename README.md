@@ -255,6 +255,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 126) Turn String Input into Hash - 6kyu
 
 ## 127) Time Converter: hours, minutes, seconds and milliseconds - 7kyu
+
+
+## 128) Sum of Triangular Numbers - 7kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
