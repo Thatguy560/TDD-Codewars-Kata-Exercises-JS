@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620740698658" clover="3.2.0">
-  <project timestamp="1620740698659" name="All files">
-    <metrics statements="779" coveredstatements="775" conditionals="230" coveredconditionals="212" methods="246" coveredmethods="246" elements="1255" coveredelements="1233" complexity="0" loc="779" ncloc="779" packages="133" files="133" classes="133"/>
+<coverage generated="1620743507970" clover="3.2.0">
+  <project timestamp="1620743507970" name="All files">
+    <metrics statements="791" coveredstatements="787" conditionals="236" coveredconditionals="218" methods="248" coveredmethods="248" elements="1275" coveredelements="1253" complexity="0" loc="791" ncloc="791" packages="134" files="134" classes="134"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -25,6 +25,24 @@
         <line num="4" count="3" type="stmt"/>
         <line num="5" count="3" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.gapInPrimes">
+      <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <file name="gapInPrimes.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/gapInPrimes/gapInPrimes.js">
+        <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="59" type="stmt"/>
+        <line num="5" count="265" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="59" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.hashtagGenerator">
