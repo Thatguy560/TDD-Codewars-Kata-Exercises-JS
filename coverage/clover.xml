@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620684362002" clover="3.2.0">
-  <project timestamp="1620684362002" name="All files">
-    <metrics statements="771" coveredstatements="767" conditionals="226" coveredconditionals="208" methods="243" coveredmethods="243" elements="1240" coveredelements="1218" complexity="0" loc="771" ncloc="771" packages="130" files="130" classes="130"/>
+<coverage generated="1620737464852" clover="3.2.0">
+  <project timestamp="1620737464852" name="All files">
+    <metrics statements="774" coveredstatements="770" conditionals="228" coveredconditionals="210" methods="244" coveredmethods="244" elements="1246" coveredelements="1224" complexity="0" loc="774" ncloc="774" packages="131" files="131" classes="131"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1009,6 +1009,15 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.greatestCommonDivisor">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="greatestCommonDivisor.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/greatestCommonDivisor/greatestCommonDivisor.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.harvestFestival">
