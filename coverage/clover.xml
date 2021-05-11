@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620739778830" clover="3.2.0">
-  <project timestamp="1620739778830" name="All files">
-    <metrics statements="777" coveredstatements="773" conditionals="230" coveredconditionals="212" methods="245" coveredmethods="245" elements="1252" coveredelements="1230" complexity="0" loc="777" ncloc="777" packages="132" files="132" classes="132"/>
+<coverage generated="1620740698658" clover="3.2.0">
+  <project timestamp="1620740698659" name="All files">
+    <metrics statements="779" coveredstatements="775" conditionals="230" coveredconditionals="212" methods="246" coveredmethods="246" elements="1255" coveredelements="1233" complexity="0" loc="779" ncloc="779" packages="133" files="133" classes="133"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1063,6 +1063,14 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.invisibleCubes">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="invisibleCubes.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/invisibleCubes/invisibleCubes.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.largeProductOrSum">
