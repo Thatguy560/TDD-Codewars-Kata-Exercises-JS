@@ -272,6 +272,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 134) Find the first non-consecutive number - 8kyu
 
 ## 135) Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language? - 7kyu 
+
+## 136) Coding Meetup #9 - Higher-Order Functions Series - Is the meetup age-diverse? - 6kyu 
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
