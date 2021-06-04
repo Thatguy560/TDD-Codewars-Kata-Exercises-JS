@@ -270,6 +270,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 133) Word To Binary - 7kyu
 
 ## 134) Find the first non-consecutive number - 8kyu
+
+## 135) Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language? - 7kyu 
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

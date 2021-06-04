@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1620769110017" clover="3.2.0">
-  <project timestamp="1620769110017" name="All files">
-    <metrics statements="800" coveredstatements="796" conditionals="240" coveredconditionals="222" methods="252" coveredmethods="252" elements="1292" coveredelements="1270" complexity="0" loc="800" ncloc="800" packages="136" files="136" classes="136"/>
+<coverage generated="1622818384111" clover="3.2.0">
+  <project timestamp="1622818384111" name="All files">
+    <metrics statements="804" coveredstatements="800" conditionals="240" coveredconditionals="222" methods="255" coveredmethods="255" elements="1299" coveredelements="1277" complexity="0" loc="804" ncloc="804" packages="137" files="137" classes="137"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -757,6 +757,16 @@
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.HigherOrderFunctionsSeriesCanTheyCodeInTheSameLanguage">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="HigherOrderFunctionsSeriesCanTheyCodeInTheSameLanguage.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/HigherOrderFunctionsSeriesCanTheyCodeInTheSameLanguage/HigherOrderFunctionsSeriesCanTheyCodeInTheSameLanguage.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.allStarsCodingChallenge20">
