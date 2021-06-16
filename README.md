@@ -274,6 +274,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 135) Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language? - 7kyu 
 
 ## 136) Coding Meetup #9 - Higher-Order Functions Series - Is the meetup age-diverse? - 6kyu 
+
+## 137) Largest pair sum in array - 7kyu 
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1622820718890" clover="3.2.0">
-  <project timestamp="1622820718890" name="All files">
-    <metrics statements="818" coveredstatements="814" conditionals="268" coveredconditionals="250" methods="267" coveredmethods="267" elements="1353" coveredelements="1331" complexity="0" loc="818" ncloc="818" packages="138" files="138" classes="138"/>
+<coverage generated="1622840149873" clover="3.2.0">
+  <project timestamp="1622840149873" name="All files">
+    <metrics statements="820" coveredstatements="816" conditionals="268" coveredconditionals="250" methods="268" coveredmethods="268" elements="1356" coveredelements="1334" complexity="0" loc="820" ncloc="820" packages="138" files="138" classes="138"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -191,9 +191,9 @@
       </file>
     </package>
     <package name="6kyu.HigherOrderFunctionsSeriesIsTheMeetupAgeDiverse">
-      <metrics statements="14" coveredstatements="14" conditionals="28" coveredconditionals="28" methods="12" coveredmethods="12"/>
+      <metrics statements="16" coveredstatements="16" conditionals="28" coveredconditionals="28" methods="13" coveredmethods="13"/>
       <file name="HigherOrderFunctionsSeriesIsTheMeetupAgeDiverse.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/HigherOrderFunctionsSeriesIsTheMeetupAgeDiverse/HigherOrderFunctionsSeriesIsTheMeetupAgeDiverse.js">
-        <metrics statements="14" coveredstatements="14" conditionals="28" coveredconditionals="28" methods="12" coveredmethods="12"/>
+        <metrics statements="16" coveredstatements="16" conditionals="28" coveredconditionals="28" methods="13" coveredmethods="13"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="12" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
@@ -208,6 +208,8 @@
         <line num="12" count="9" type="cond" truecount="2" falsecount="0"/>
         <line num="13" count="10" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.arrayDiff">

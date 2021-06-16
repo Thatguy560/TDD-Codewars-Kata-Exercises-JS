@@ -14,6 +14,10 @@ isAgeDiverse = (list) => {
   );
 };
 
+test = (a, b) => {
+  return a + b;
+};
+
 module.exports = isAgeDiverse;
 
 // The some() method tests whether at least one element in
