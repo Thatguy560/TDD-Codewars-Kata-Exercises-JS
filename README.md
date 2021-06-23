@@ -275,7 +275,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 136) Coding Meetup #9 - Higher-Order Functions Series - Is the meetup age-diverse? - 6kyu 
 
-## 137) Largest pair sum in array - 7kyu 
+## 137) Largest pair sum in array - 7kyu
+
+## 138) Digit Recovery - 6kyu
 
 # Check Test Coverage 
 
