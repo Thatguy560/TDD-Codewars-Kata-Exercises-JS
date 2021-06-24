@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1624459088266" clover="3.2.0">
-  <project timestamp="1624459088266" name="All files">
-    <metrics statements="843" coveredstatements="838" conditionals="272" coveredconditionals="254" methods="273" coveredmethods="272" elements="1388" coveredelements="1364" complexity="0" loc="843" ncloc="843" packages="141" files="141" classes="141"/>
+<coverage generated="1624571053893" clover="3.2.0">
+  <project timestamp="1624571053893" name="All files">
+    <metrics statements="848" coveredstatements="843" conditionals="272" coveredconditionals="254" methods="276" coveredmethods="275" elements="1396" coveredelements="1372" complexity="0" loc="848" ncloc="848" packages="142" files="142" classes="142"/>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -1357,6 +1357,17 @@
         <line num="11" count="1" type="stmt"/>
         <line num="12" count="25" type="stmt"/>
         <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.scalingSquaredStrings">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="scalingSquaredStrings.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/scalingSquaredStrings/scalingSquaredStrings.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="16" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.shifterWords">
