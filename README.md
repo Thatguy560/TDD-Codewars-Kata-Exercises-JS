@@ -283,6 +283,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 140) Scaling Squared Strings - 7kyu
 
+## 141) Build a square - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
