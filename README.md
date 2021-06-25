@@ -285,6 +285,12 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 141) Build a square - 7kyu
 
+## 142) Simple Fun #265: The Janitor And His Mop - 6kyu
+
+## 143) Flatten() - 5kyu
+
+## 143) Format words into a sentence - 6kyu 
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

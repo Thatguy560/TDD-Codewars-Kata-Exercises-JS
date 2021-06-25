@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1624572373904" clover="3.2.0">
-  <project timestamp="1624572373904" name="All files">
-    <metrics statements="852" coveredstatements="847" conditionals="272" coveredconditionals="254" methods="277" coveredmethods="276" elements="1401" coveredelements="1377" complexity="0" loc="852" ncloc="852" packages="143" files="143" classes="143"/>
+<coverage generated="1624651532100" clover="3.2.0">
+  <project timestamp="1624651532100" name="All files">
+    <metrics statements="869" coveredstatements="864" conditionals="278" coveredconditionals="259" methods="282" coveredmethods="281" elements="1429" coveredelements="1404" complexity="0" loc="869" ncloc="869" packages="146" files="146" classes="146"/>
+    <package name="5kyu.Flatten">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Flatten/Flatten.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="5kyu.countIPAddresses">
       <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="countIPAddresses.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/countIPAddresses/countIPAddresses.js">
@@ -356,6 +365,19 @@
         <line num="21" count="1" type="stmt"/>
       </file>
     </package>
+    <package name="6kyu.formatWordsIntoASentence">
+      <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+      <file name="formatWordsIntoASentence.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/formatWordsIntoASentence/formatWordsIntoASentence.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="6kyu.higherOrderFunctionsSeriesFindTheOddNames">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
       <file name="higherOrderFunctionsSeriesFindTheOddNames.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/higherOrderFunctionsSeriesFindTheOddNames/higherOrderFunctionsSeriesFindTheOddNames.js">
@@ -494,6 +516,19 @@
         <line num="7" count="3" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.simpleFunTheJanitorAndHisMop">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="simpleFunTheJanitorAndHisMop.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/simpleFunTheJanitorAndHisMop/simpleFunTheJanitorAndHisMop.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="26" type="stmt"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="6" count="26" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.splitStrings">
