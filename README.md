@@ -289,7 +289,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 143) Flatten() - 5kyu
 
-## 143) Format words into a sentence - 6kyu 
+## 144) Format words into a sentence - 6kyu 
+
+## 145) Count the Digit - 7kyu 
 
 # Check Test Coverage 
 

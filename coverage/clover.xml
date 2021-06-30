@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1624651532100" clover="3.2.0">
-  <project timestamp="1624651532100" name="All files">
-    <metrics statements="869" coveredstatements="864" conditionals="278" coveredconditionals="259" methods="282" coveredmethods="281" elements="1429" coveredelements="1404" complexity="0" loc="869" ncloc="869" packages="146" files="146" classes="146"/>
+<coverage generated="1625091790797" clover="3.2.0">
+  <project timestamp="1625091790797" name="All files">
+    <metrics statements="876" coveredstatements="871" conditionals="278" coveredconditionals="259" methods="285" coveredmethods="284" elements="1439" coveredelements="1414" complexity="0" loc="876" ncloc="876" packages="147" files="147" classes="147"/>
     <package name="5kyu.Flatten">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Flatten/Flatten.js">
@@ -950,6 +950,19 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.countTheDigit">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="countTheDigit.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/countTheDigit/countTheDigit.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="5751" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="41382" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.creditCardMask">
