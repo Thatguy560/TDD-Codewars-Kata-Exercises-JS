@@ -291,7 +291,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 144) Format words into a sentence - 6kyu 
 
-## 145) Count the Digit - 7kyu 
+## 145) Count the Digit - 7kyu
+
+## 146) IP Validation - 6kyu
 
 # Check Test Coverage 
 
