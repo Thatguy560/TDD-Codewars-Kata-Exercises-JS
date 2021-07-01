@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625137010660" clover="3.2.0">
-  <project timestamp="1625137010660" name="All files">
-    <metrics statements="886" coveredstatements="881" conditionals="281" coveredconditionals="262" methods="288" coveredmethods="287" elements="1455" coveredelements="1430" complexity="0" loc="886" ncloc="886" packages="149" files="149" classes="149"/>
+<coverage generated="1625144112749" clover="3.2.0">
+  <project timestamp="1625144112749" name="All files">
+    <metrics statements="893" coveredstatements="888" conditionals="281" coveredconditionals="262" methods="290" coveredmethods="289" elements="1464" coveredelements="1439" complexity="0" loc="893" ncloc="893" packages="151" files="151" classes="151"/>
     <package name="5kyu.Flatten">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Flatten/Flatten.js">
@@ -524,6 +524,14 @@
         <line num="21" count="4" type="stmt"/>
         <line num="24" count="1" type="stmt"/>
         <line num="27" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.roundBy0.5Steps">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="roundBy0.5Steps.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/roundBy0.5Steps/roundBy0.5Steps.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.selectiveArrayReversing">
@@ -1124,6 +1132,17 @@
         <line num="5" count="16" type="stmt"/>
         <line num="8" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.getKeyValuePairsAsArrays">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="getKeyValuePairsAsArrays.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/getKeyValuePairsAsArrays/getKeyValuePairsAsArrays.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.getNames">

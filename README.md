@@ -297,6 +297,10 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 147) Pyramid Array - 6kyu
 
+## 148) Get key/value pairs as arrays - 7kyu
+
+## 149) Round by 0.5 steps - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
