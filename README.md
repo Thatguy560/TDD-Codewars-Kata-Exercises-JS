@@ -301,6 +301,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 149) Round by 0.5 steps - 6kyu
 
+## 150) Find Within Array - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
