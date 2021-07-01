@@ -295,6 +295,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 146) IP Validation - 6kyu
 
+## 147) Pyramid Array - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

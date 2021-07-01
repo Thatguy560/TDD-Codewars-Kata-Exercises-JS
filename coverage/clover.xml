@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625093143107" clover="3.2.0">
-  <project timestamp="1625093143107" name="All files">
-    <metrics statements="880" coveredstatements="875" conditionals="281" coveredconditionals="262" methods="287" coveredmethods="286" elements="1448" coveredelements="1423" complexity="0" loc="880" ncloc="880" packages="148" files="148" classes="148"/>
+<coverage generated="1625137010660" clover="3.2.0">
+  <project timestamp="1625137010660" name="All files">
+    <metrics statements="886" coveredstatements="881" conditionals="281" coveredconditionals="262" methods="288" coveredmethods="287" elements="1455" coveredelements="1430" complexity="0" loc="886" ncloc="886" packages="149" files="149" classes="149"/>
     <package name="5kyu.Flatten">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Flatten/Flatten.js">
@@ -465,6 +465,18 @@
         <line num="2" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="3" count="2" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.pyramidArray">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="pyramidArray.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/pyramidArray/pyramidArray.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.replaceWithAlphabetPosition">
