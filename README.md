@@ -305,6 +305,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 151) MergeSort "merge" function - 5kyu
 
+## 152) Most frequently used words in a text - 4kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

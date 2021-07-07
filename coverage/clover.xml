@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625659988246" clover="3.2.0">
-  <project timestamp="1625659988246" name="All files">
-    <metrics statements="907" coveredstatements="902" conditionals="283" coveredconditionals="264" methods="292" coveredmethods="291" elements="1482" coveredelements="1457" complexity="0" loc="907" ncloc="907" packages="153" files="153" classes="153"/>
+<coverage generated="1625661939973" clover="3.2.0">
+  <project timestamp="1625661939973" name="All files">
+    <metrics statements="922" coveredstatements="917" conditionals="287" coveredconditionals="268" methods="299" coveredmethods="298" elements="1508" coveredelements="1483" complexity="0" loc="922" ncloc="922" packages="154" files="154" classes="154"/>
+    <package name="4kyu.mostFrequentlyUsedWordsInAText">
+      <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
+        <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="23" type="stmt"/>
+        <line num="6" count="23" type="stmt"/>
+        <line num="7" count="19" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="12" count="19" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="5kyu.Flatten">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Flatten/Flatten.js">
