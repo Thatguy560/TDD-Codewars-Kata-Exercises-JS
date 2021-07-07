@@ -303,6 +303,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 150) Find Within Array - 6kyu
 
+## 151) MergeSort "merge" function - 5kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

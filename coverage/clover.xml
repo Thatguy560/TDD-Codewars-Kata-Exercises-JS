@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625146874507" clover="3.2.0">
-  <project timestamp="1625146874507" name="All files">
-    <metrics statements="896" coveredstatements="891" conditionals="281" coveredconditionals="262" methods="291" coveredmethods="290" elements="1468" coveredelements="1443" complexity="0" loc="896" ncloc="896" packages="152" files="152" classes="152"/>
+<coverage generated="1625659988246" clover="3.2.0">
+  <project timestamp="1625659988246" name="All files">
+    <metrics statements="907" coveredstatements="902" conditionals="283" coveredconditionals="264" methods="292" coveredmethods="291" elements="1482" coveredelements="1457" complexity="0" loc="907" ncloc="907" packages="153" files="153" classes="153"/>
     <package name="5kyu.Flatten">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Flatten/Flatten.js">
@@ -137,6 +137,23 @@
         <line num="6" count="1" type="stmt"/>
         <line num="7" count="4" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.mergeSortFunction">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="mergeSortFunction.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/mergeSortFunction/mergeSortFunction.js">
+        <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="36" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.movingZerosToEnd">
