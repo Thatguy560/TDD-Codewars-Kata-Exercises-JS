@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625661939973" clover="3.2.0">
-  <project timestamp="1625661939973" name="All files">
-    <metrics statements="922" coveredstatements="917" conditionals="287" coveredconditionals="268" methods="299" coveredmethods="298" elements="1508" coveredelements="1483" complexity="0" loc="922" ncloc="922" packages="154" files="154" classes="154"/>
+<coverage generated="1625665679039" clover="3.2.0">
+  <project timestamp="1625665679039" name="All files">
+    <metrics statements="926" coveredstatements="921" conditionals="289" coveredconditionals="270" methods="301" coveredmethods="300" elements="1516" coveredelements="1491" complexity="0" loc="926" ncloc="926" packages="155" files="155" classes="155"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -266,6 +266,16 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="4" count="7" type="cond" truecount="3" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.arabianString">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="arabianString.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/arabianString/arabianString.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="3" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
       </file>
     </package>
