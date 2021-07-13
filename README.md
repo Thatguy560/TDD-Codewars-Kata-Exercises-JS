@@ -311,6 +311,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 154) Flatten - 7kyu
 
+## 155) Throwing Darts - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

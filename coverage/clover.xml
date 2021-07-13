@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626213645371" clover="3.2.0">
-  <project timestamp="1626213645371" name="All files">
-    <metrics statements="928" coveredstatements="923" conditionals="289" coveredconditionals="270" methods="302" coveredmethods="301" elements="1519" coveredelements="1494" complexity="0" loc="928" ncloc="928" packages="156" files="156" classes="156"/>
+<coverage generated="1626216157935" clover="3.2.0">
+  <project timestamp="1626216157935" name="All files">
+    <metrics statements="939" coveredstatements="934" conditionals="299" coveredconditionals="280" methods="304" coveredmethods="303" elements="1542" coveredelements="1517" complexity="0" loc="939" ncloc="939" packages="157" files="157" classes="157"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -712,6 +712,23 @@
         <line num="5" count="50" type="stmt"/>
         <line num="6" count="6" type="cond" truecount="3" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.throwingDarts">
+      <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <file name="throwingDarts.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/throwingDarts/throwingDarts.js">
+        <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="5" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.timeLikeStringFormat">
