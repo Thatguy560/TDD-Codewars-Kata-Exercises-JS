@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625665679039" clover="3.2.0">
-  <project timestamp="1625665679039" name="All files">
-    <metrics statements="926" coveredstatements="921" conditionals="289" coveredconditionals="270" methods="301" coveredmethods="300" elements="1516" coveredelements="1491" complexity="0" loc="926" ncloc="926" packages="155" files="155" classes="155"/>
+<coverage generated="1626213645371" clover="3.2.0">
+  <project timestamp="1626213645371" name="All files">
+    <metrics statements="928" coveredstatements="923" conditionals="289" coveredconditionals="270" methods="302" coveredmethods="301" elements="1519" coveredelements="1494" complexity="0" loc="928" ncloc="928" packages="156" files="156" classes="156"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -919,6 +919,14 @@
         <line num="13" count="1" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.Flatten">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/Flatten/Flatten.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.HigherOrderFunctionsSeriesCanTheyCodeInTheSameLanguage">
