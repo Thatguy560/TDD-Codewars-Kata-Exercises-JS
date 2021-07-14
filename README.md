@@ -315,6 +315,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 156) Sequences and Series - 6kyu
 
+## 157) Palindrome chain length - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

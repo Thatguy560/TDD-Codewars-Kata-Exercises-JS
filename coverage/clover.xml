@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626260683942" clover="3.2.0">
-  <project timestamp="1626260683943" name="All files">
-    <metrics statements="937" coveredstatements="932" conditionals="299" coveredconditionals="280" methods="305" coveredmethods="304" elements="1541" coveredelements="1516" complexity="0" loc="937" ncloc="937" packages="158" files="158" classes="158"/>
+<coverage generated="1626263308270" clover="3.2.0">
+  <project timestamp="1626263308270" name="All files">
+    <metrics statements="946" coveredstatements="941" conditionals="299" coveredconditionals="280" methods="306" coveredmethods="305" elements="1551" coveredelements="1526" complexity="0" loc="946" ncloc="946" packages="159" files="159" classes="159"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -958,6 +958,21 @@
         <line num="2" count="6" type="stmt"/>
         <line num="3" count="5" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.PalindromeChainLength">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="PalindromeChainLength.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/PalindromeChainLength/PalindromeChainLength.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.allStarsCodingChallenge20">
