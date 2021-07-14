@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626263308270" clover="3.2.0">
-  <project timestamp="1626263308270" name="All files">
-    <metrics statements="946" coveredstatements="941" conditionals="299" coveredconditionals="280" methods="306" coveredmethods="305" elements="1551" coveredelements="1526" complexity="0" loc="946" ncloc="946" packages="159" files="159" classes="159"/>
+<coverage generated="1626267591861" clover="3.2.0">
+  <project timestamp="1626267591861" name="All files">
+    <metrics statements="950" coveredstatements="945" conditionals="299" coveredconditionals="280" methods="308" coveredmethods="307" elements="1557" coveredelements="1532" complexity="0" loc="950" ncloc="950" packages="160" files="160" classes="160"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -973,6 +973,16 @@
         <line num="7" count="4" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.TrainingMethodsOfArrayObjectMap">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="TrainingMethodsOfArrayObjectMap.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/TrainingMethodsOfArrayObjectMap/TrainingMethodsOfArrayObjectMap.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.allStarsCodingChallenge20">

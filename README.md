@@ -317,6 +317,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 157) Palindrome chain length - 7kyu
 
+## 158) Training JS #26: methods of arrayObject---map() - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
