@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626216157935" clover="3.2.0">
-  <project timestamp="1626216157935" name="All files">
-    <metrics statements="939" coveredstatements="934" conditionals="299" coveredconditionals="280" methods="304" coveredmethods="303" elements="1542" coveredelements="1517" complexity="0" loc="939" ncloc="939" packages="157" files="157" classes="157"/>
+<coverage generated="1626260683942" clover="3.2.0">
+  <project timestamp="1626260683943" name="All files">
+    <metrics statements="937" coveredstatements="932" conditionals="299" coveredconditionals="280" methods="305" coveredmethods="304" elements="1541" coveredelements="1516" complexity="0" loc="937" ncloc="937" packages="158" files="158" classes="158"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -267,6 +267,14 @@
         <line num="2" count="2" type="stmt"/>
         <line num="4" count="7" type="cond" truecount="3" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.SequencesAndSeries">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="SequencesAndSeries.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/SequencesAndSeries/SequencesAndSeries.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.arabianString">
@@ -715,20 +723,16 @@
       </file>
     </package>
     <package name="6kyu.throwingDarts">
-      <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
       <file name="throwingDarts.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/throwingDarts/throwingDarts.js">
-        <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="3" type="stmt"/>
         <line num="3" count="3" type="stmt"/>
         <line num="4" count="7" type="cond" truecount="4" falsecount="0"/>
         <line num="5" count="7" type="cond" truecount="2" falsecount="0"/>
-        <line num="7" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="8" count="1" type="stmt"/>
-        <line num="9" count="6" type="cond" truecount="2" falsecount="0"/>
-        <line num="10" count="1" type="stmt"/>
+        <line num="7" count="7" type="cond" truecount="4" falsecount="0"/>
         <line num="12" count="1" type="stmt"/>
-        <line num="16" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.timeLikeStringFormat">

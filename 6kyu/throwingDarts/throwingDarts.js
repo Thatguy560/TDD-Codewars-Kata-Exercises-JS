@@ -4,13 +4,9 @@ scoreThrows = (radii) => {
     if (radii[i] >= 5 && radii[i] <= 10) score += 5;
     if (radii[i] < 5) score += 10;
   }
-  if (radii.length === 0) {
-    return score;
-  } else if (radii.every((elm) => elm < 5)) {
-    return score + 100;
-  } else {
-    return score;
-  }
+  return radii.length === 0 || radii.some((elm) => elm > 5)
+    ? score
+    : score + 100;
 };
 
 module.exports = scoreThrows;
