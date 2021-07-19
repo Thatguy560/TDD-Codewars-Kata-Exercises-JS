@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626267591861" clover="3.2.0">
-  <project timestamp="1626267591861" name="All files">
-    <metrics statements="950" coveredstatements="945" conditionals="299" coveredconditionals="280" methods="308" coveredmethods="307" elements="1557" coveredelements="1532" complexity="0" loc="950" ncloc="950" packages="160" files="160" classes="160"/>
+<coverage generated="1626690458551" clover="3.2.0">
+  <project timestamp="1626690458551" name="All files">
+    <metrics statements="960" coveredstatements="955" conditionals="299" coveredconditionals="280" methods="309" coveredmethods="308" elements="1568" coveredelements="1543" complexity="0" loc="960" ncloc="960" packages="161" files="161" classes="161"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -506,6 +506,22 @@
         <line num="14" count="5" type="stmt"/>
         <line num="17" count="1" type="stmt"/>
         <line num="20" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.matrixAddition">
+      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="matrixAddition.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/matrixAddition/matrixAddition.js">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.mexicanWave">
