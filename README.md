@@ -321,6 +321,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 159 Matrix Addition - 6kyu
 
+## 160 Binary String - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
