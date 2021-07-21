@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626693167094" clover="3.2.0">
-  <project timestamp="1626693167094" name="All files">
-    <metrics statements="967" coveredstatements="962" conditionals="301" coveredconditionals="282" methods="310" coveredmethods="309" elements="1578" coveredelements="1553" complexity="0" loc="967" ncloc="967" packages="162" files="162" classes="162"/>
+<coverage generated="1626870992600" clover="3.2.0">
+  <project timestamp="1626870992600" name="All files">
+    <metrics statements="974" coveredstatements="969" conditionals="301" coveredconditionals="282" methods="312" coveredmethods="311" elements="1587" coveredelements="1562" complexity="0" loc="974" ncloc="974" packages="163" files="163" classes="163"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -267,6 +267,19 @@
         <line num="2" count="2" type="stmt"/>
         <line num="4" count="7" type="cond" truecount="3" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.SearchInMultidimensionalArray">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="SearchInMultidimensionalArray.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/SearchInMultidimensionalArray/SearchInMultidimensionalArray.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="32" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="32" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.SequencesAndSeries">

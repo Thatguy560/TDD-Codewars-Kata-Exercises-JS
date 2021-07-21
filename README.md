@@ -323,6 +323,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 160 Binary String - 6kyu
 
+## 161 Search in multidimensional array - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
