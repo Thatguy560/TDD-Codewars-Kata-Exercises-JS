@@ -325,6 +325,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 161 Search in multidimensional array - 6kyu
 
+## 162 Basic Calculator - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
