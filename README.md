@@ -327,6 +327,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 162 Basic Calculator - 7kyu
 
+## 163 Substituting Variables Into Strings: Padded Numbers - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

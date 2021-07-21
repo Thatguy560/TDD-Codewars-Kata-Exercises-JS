@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626873143561" clover="3.2.0">
-  <project timestamp="1626873143561" name="All files">
-    <metrics statements="978" coveredstatements="973" conditionals="305" coveredconditionals="286" methods="314" coveredmethods="313" elements="1597" coveredelements="1572" complexity="0" loc="978" ncloc="978" packages="164" files="164" classes="164"/>
+<coverage generated="1626874478497" clover="3.2.0">
+  <project timestamp="1626874478498" name="All files">
+    <metrics statements="982" coveredstatements="977" conditionals="305" coveredconditionals="286" methods="315" coveredmethods="314" elements="1602" coveredelements="1577" complexity="0" loc="982" ncloc="982" packages="165" files="165" classes="165"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1735,6 +1735,16 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="3" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.substitutingVariablesIntoStrings">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="substitutingVariablesIntoStrings.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/substitutingVariablesIntoStrings/substitutingVariablesIntoStrings.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.sumOfASequence">
