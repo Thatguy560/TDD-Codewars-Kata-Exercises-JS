@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627331601931" clover="3.2.0">
-  <project timestamp="1627331601931" name="All files">
-    <metrics statements="988" coveredstatements="983" conditionals="311" coveredconditionals="292" methods="317" coveredmethods="316" elements="1616" coveredelements="1591" complexity="0" loc="988" ncloc="988" packages="166" files="166" classes="166"/>
+<coverage generated="1627333804579" clover="3.2.0">
+  <project timestamp="1627333804579" name="All files">
+    <metrics statements="988" coveredstatements="983" conditionals="305" coveredconditionals="286" methods="317" coveredmethods="316" elements="1610" coveredelements="1585" complexity="0" loc="988" ncloc="988" packages="166" files="166" classes="166"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -288,18 +288,6 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="6kyu.SplitAndThenAddBothSidesOfAnArrayTogether">
-      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
-      <file name="SplitAndThenAddBothSidesOfAnArrayTogether.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/SplitAndThenAddBothSidesOfAnArrayTogether/SplitAndThenAddBothSidesOfAnArrayTogether.js">
-        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
-        <line num="1" count="1" type="stmt"/>
-        <line num="2" count="5" type="cond" truecount="4" falsecount="0"/>
-        <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
-        <line num="4" count="12" type="stmt"/>
-        <line num="5" count="3" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.arabianString">
@@ -678,6 +666,18 @@
         <line num="5" count="26" type="stmt"/>
         <line num="6" count="26" type="cond" truecount="2" falsecount="0"/>
         <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.simpleSentences">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="simpleSentences.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/simpleSentences/simpleSentences.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.splitStrings">

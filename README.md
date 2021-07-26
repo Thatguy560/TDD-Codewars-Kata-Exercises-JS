@@ -331,6 +331,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 164 Split and then add both sides of an array together. - 6kyu
 
+## 165 Simple Sentences - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
