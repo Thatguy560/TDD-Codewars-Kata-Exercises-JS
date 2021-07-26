@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1626874478497" clover="3.2.0">
-  <project timestamp="1626874478498" name="All files">
-    <metrics statements="982" coveredstatements="977" conditionals="305" coveredconditionals="286" methods="315" coveredmethods="314" elements="1602" coveredelements="1577" complexity="0" loc="982" ncloc="982" packages="165" files="165" classes="165"/>
+<coverage generated="1627331601931" clover="3.2.0">
+  <project timestamp="1627331601931" name="All files">
+    <metrics statements="988" coveredstatements="983" conditionals="311" coveredconditionals="292" methods="317" coveredmethods="316" elements="1616" coveredelements="1591" complexity="0" loc="988" ncloc="988" packages="166" files="166" classes="166"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -288,6 +288,18 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.SplitAndThenAddBothSidesOfAnArrayTogether">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <file name="SplitAndThenAddBothSidesOfAnArrayTogether.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/SplitAndThenAddBothSidesOfAnArrayTogether/SplitAndThenAddBothSidesOfAnArrayTogether.js">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.arabianString">

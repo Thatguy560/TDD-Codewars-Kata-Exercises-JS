@@ -329,6 +329,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 163 Substituting Variables Into Strings: Padded Numbers - 7kyu
 
+## 164 Split and then add both sides of an array together. - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
