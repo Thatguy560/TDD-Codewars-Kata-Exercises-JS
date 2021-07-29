@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627333804579" clover="3.2.0">
-  <project timestamp="1627333804579" name="All files">
-    <metrics statements="988" coveredstatements="983" conditionals="305" coveredconditionals="286" methods="317" coveredmethods="316" elements="1610" coveredelements="1585" complexity="0" loc="988" ncloc="988" packages="166" files="166" classes="166"/>
+<coverage generated="1627558449330" clover="3.2.0">
+  <project timestamp="1627558449330" name="All files">
+    <metrics statements="992" coveredstatements="987" conditionals="307" coveredconditionals="288" methods="318" coveredmethods="317" elements="1617" coveredelements="1592" complexity="0" loc="992" ncloc="992" packages="167" files="167" classes="167"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1599,6 +1599,16 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.returnTheMissingElement">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="returnTheMissingElement.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/returnTheMissingElement/returnTheMissingElement.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="7" count="1" type="stmt"/>
       </file>
     </package>
