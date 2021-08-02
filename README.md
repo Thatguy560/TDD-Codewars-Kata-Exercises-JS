@@ -337,6 +337,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 167 Convert PascalCase string into snake_case - 5kyu
 
+## 168 Plural - 8kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

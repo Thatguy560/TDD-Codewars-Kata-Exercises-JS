@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627559450271" clover="3.2.0">
-  <project timestamp="1627559450272" name="All files">
-    <metrics statements="996" coveredstatements="991" conditionals="307" coveredconditionals="288" methods="320" coveredmethods="319" elements="1623" coveredelements="1598" complexity="0" loc="996" ncloc="996" packages="168" files="168" classes="168"/>
+<coverage generated="1627901900275" clover="3.2.0">
+  <project timestamp="1627901900275" name="All files">
+    <metrics statements="998" coveredstatements="993" conditionals="307" coveredconditionals="288" methods="321" coveredmethods="320" elements="1626" coveredelements="1601" complexity="0" loc="998" ncloc="998" packages="169" files="169" classes="169"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1877,6 +1877,14 @@
       <file name="divisibleByGivenNumber.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/DivisibleByGivenNumber/divisibleByGivenNumber.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
         <line num="1" count="6" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="8kyu.Plural">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Plural.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/8kyu/Plural/Plural.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
       </file>
     </package>
