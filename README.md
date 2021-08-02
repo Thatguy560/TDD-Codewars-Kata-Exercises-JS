@@ -340,6 +340,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 168 Plural - 8kyu
 
 ## 169 Pluck - 7kyu
+
+## 170 Maximum Length Difference - 7kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

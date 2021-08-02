@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627902922808" clover="3.2.0">
-  <project timestamp="1627902922808" name="All files">
-    <metrics statements="1002" coveredstatements="997" conditionals="307" coveredconditionals="288" methods="323" coveredmethods="322" elements="1632" coveredelements="1607" complexity="0" loc="1002" ncloc="1002" packages="170" files="170" classes="170"/>
+<coverage generated="1627905297693" clover="3.2.0">
+  <project timestamp="1627905297694" name="All files">
+    <metrics statements="1007" coveredstatements="1002" conditionals="311" coveredconditionals="292" methods="328" coveredmethods="327" elements="1646" coveredelements="1621" complexity="0" loc="1007" ncloc="1007" packages="171" files="171" classes="171"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1495,6 +1495,17 @@
         <line num="2" count="4" type="stmt"/>
         <line num="3" count="4" type="cond" truecount="1" falsecount="1"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.maximumLengthDifference">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+      <file name="maximumLengthDifference.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/maximumLengthDifference/maximumLengthDifference.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="13" type="stmt"/>
+        <line num="3" count="13" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.middleCharacter">
