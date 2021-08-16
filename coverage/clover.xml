@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1627905297693" clover="3.2.0">
-  <project timestamp="1627905297694" name="All files">
-    <metrics statements="1007" coveredstatements="1002" conditionals="311" coveredconditionals="292" methods="328" coveredmethods="327" elements="1646" coveredelements="1621" complexity="0" loc="1007" ncloc="1007" packages="171" files="171" classes="171"/>
+<coverage generated="1629140306184" clover="3.2.0">
+  <project timestamp="1629140306184" name="All files">
+    <metrics statements="1011" coveredstatements="1006" conditionals="311" coveredconditionals="292" methods="330" coveredmethods="329" elements="1652" coveredelements="1627" complexity="0" loc="1011" ncloc="1011" packages="172" files="172" classes="172"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1046,6 +1046,16 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.Testing-1-2-3">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Testing-1-2-3.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/Testing-1-2-3/Testing-1-2-3.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
       </file>
     </package>
