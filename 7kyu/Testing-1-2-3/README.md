@@ -1,4 +1,4 @@
-## The Office VI - Sabbatical Kata
+## Testing 1-2-3 Kata
 
 ### Requirements 
 

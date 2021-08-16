@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629140306184" clover="3.2.0">
-  <project timestamp="1629140306184" name="All files">
-    <metrics statements="1011" coveredstatements="1006" conditionals="311" coveredconditionals="292" methods="330" coveredmethods="329" elements="1652" coveredelements="1627" complexity="0" loc="1011" ncloc="1011" packages="172" files="172" classes="172"/>
+<coverage generated="1629141562462" clover="3.2.0">
+  <project timestamp="1629141562462" name="All files">
+    <metrics statements="1016" coveredstatements="1011" conditionals="311" coveredconditionals="292" methods="331" coveredmethods="330" elements="1658" coveredelements="1633" complexity="0" loc="1016" ncloc="1016" packages="173" files="173" classes="173"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1516,6 +1516,17 @@
         <line num="3" count="13" type="stmt"/>
         <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.maximumMultiple">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="maximumMultiple.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/maximumMultiple/maximumMultiple.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="15" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.middleCharacter">

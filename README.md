@@ -344,6 +344,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 170 Maximum Length Difference - 7kyu
 
 ## 171 Testing 1-2-3 - 7kyu
+
+## 172 Maximum Multiple - 7kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
