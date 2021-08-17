@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629141562462" clover="3.2.0">
-  <project timestamp="1629141562462" name="All files">
-    <metrics statements="1016" coveredstatements="1011" conditionals="311" coveredconditionals="292" methods="331" coveredmethods="330" elements="1658" coveredelements="1633" complexity="0" loc="1016" ncloc="1016" packages="173" files="173" classes="173"/>
+<coverage generated="1629202615590" clover="3.2.0">
+  <project timestamp="1629202615591" name="All files">
+    <metrics statements="1033" coveredstatements="1028" conditionals="351" coveredconditionals="325" methods="332" coveredmethods="331" elements="1716" coveredelements="1684" complexity="0" loc="1033" ncloc="1033" packages="174" files="174" classes="174"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -582,6 +582,29 @@
         <line num="2" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="3" count="2" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.prettyDate">
+      <metrics statements="17" coveredstatements="17" conditionals="40" coveredconditionals="33" methods="1" coveredmethods="1"/>
+      <file name="prettyDate.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/prettyDate/prettyDate.js">
+        <metrics statements="17" coveredstatements="17" conditionals="40" coveredconditionals="33" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="7" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="8" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="4" type="cond" truecount="3" falsecount="1"/>
+        <line num="10" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="11" count="3" type="cond" truecount="3" falsecount="1"/>
+        <line num="12" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="14" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="15" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="16" count="1" type="cond" truecount="3" falsecount="1"/>
+        <line num="19" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.pyramidArray">

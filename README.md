@@ -346,6 +346,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 171 Testing 1-2-3 - 7kyu
 
 ## 172 Maximum Multiple - 7kyu
+
+## 173 Pretty Date - 6kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
