@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629202615590" clover="3.2.0">
-  <project timestamp="1629202615591" name="All files">
-    <metrics statements="1033" coveredstatements="1028" conditionals="351" coveredconditionals="325" methods="332" coveredmethods="331" elements="1716" coveredelements="1684" complexity="0" loc="1033" ncloc="1033" packages="174" files="174" classes="174"/>
+<coverage generated="1629823118883" clover="3.2.0">
+  <project timestamp="1629823118883" name="All files">
+    <metrics statements="1038" coveredstatements="1033" conditionals="351" coveredconditionals="325" methods="334" coveredmethods="333" elements="1723" coveredelements="1691" complexity="0" loc="1038" ncloc="1038" packages="175" files="175" classes="175"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -30,6 +30,17 @@
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="5kyu.Rot13">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Rot13.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/5kyu/Rot13/Rot13.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
       </file>
     </package>
     <package name="5kyu.convertPascalCaseStringIntoSnakeCase">

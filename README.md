@@ -348,6 +348,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 172 Maximum Multiple - 7kyu
 
 ## 173 Pretty Date - 6kyu
+
+## 174 Rot13 - 5kyu
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
