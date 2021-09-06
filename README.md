@@ -350,6 +350,9 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 ## 173 Pretty Date - 6kyu
 
 ## 174 Rot13 - 5kyu
+
+## 175 Sum of numbers from 0 to N - 5kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

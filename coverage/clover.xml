@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629823118883" clover="3.2.0">
-  <project timestamp="1629823118883" name="All files">
-    <metrics statements="1038" coveredstatements="1033" conditionals="351" coveredconditionals="325" methods="334" coveredmethods="333" elements="1723" coveredelements="1691" complexity="0" loc="1038" ncloc="1038" packages="175" files="175" classes="175"/>
+<coverage generated="1630967938434" clover="3.2.0">
+  <project timestamp="1630967938434" name="All files">
+    <metrics statements="1050" coveredstatements="1045" conditionals="357" coveredconditionals="330" methods="336" coveredmethods="335" elements="1743" coveredelements="1710" complexity="0" loc="1050" ncloc="1050" packages="176" files="176" classes="176"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1081,6 +1081,24 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
         <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.SumOfNumbersFrom0ToN">
+      <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <file name="SumOfNumbersFrom0ToN.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/SumOfNumbersFrom0ToN/SumOfNumbersFrom0ToN.js">
+        <metrics statements="12" coveredstatements="12" conditionals="6" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.Testing-1-2-3">
