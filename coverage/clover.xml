@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630967938434" clover="3.2.0">
-  <project timestamp="1630967938434" name="All files">
-    <metrics statements="1050" coveredstatements="1045" conditionals="357" coveredconditionals="330" methods="336" coveredmethods="335" elements="1743" coveredelements="1710" complexity="0" loc="1050" ncloc="1050" packages="176" files="176" classes="176"/>
+<coverage generated="1631022511595" clover="3.2.0">
+  <project timestamp="1631022511595" name="All files">
+    <metrics statements="1061" coveredstatements="1056" conditionals="357" coveredconditionals="330" methods="339" coveredmethods="338" elements="1757" coveredelements="1724" complexity="0" loc="1061" ncloc="1061" packages="178" files="178" classes="178"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1040,6 +1040,16 @@
         <line num="17" count="1" type="stmt"/>
       </file>
     </package>
+    <package name="7kyu.FindTheMiddleElement">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="FindTheMiddleElement.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/FindTheMiddleElement/FindTheMiddleElement.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="7kyu.Flatten">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="Flatten.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/Flatten/Flatten.js">
@@ -1056,6 +1066,19 @@
         <line num="2" count="6" type="stmt"/>
         <line num="3" count="5" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.PairsOfIntegersFromMToN">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="PairsOfIntegersFromMToN.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/PairsOfIntegersFromMToN/PairsOfIntegersFromMToN.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.PalindromeChainLength">

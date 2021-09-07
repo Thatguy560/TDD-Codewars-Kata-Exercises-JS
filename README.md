@@ -351,7 +351,11 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 174 Rot13 - 5kyu
 
-## 175 Sum of numbers from 0 to N - 5kyu
+## 175 Sum of numbers from 0 to N - 7kyu
+
+## 176 Find the middle element - 7kyu
+
+## 177 Pairs of integers from m to n - 7kyu
 
 # Check Test Coverage 
 
