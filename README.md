@@ -361,6 +361,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 179 Sum of angles - 7kyu
 
+## 180 Remove duplicate words - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

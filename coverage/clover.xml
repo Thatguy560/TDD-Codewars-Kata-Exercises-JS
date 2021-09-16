@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631815587493" clover="3.2.0">
-  <project timestamp="1631815587493" name="All files">
-    <metrics statements="1073" coveredstatements="1068" conditionals="359" coveredconditionals="331" methods="347" coveredmethods="346" elements="1779" coveredelements="1745" complexity="0" loc="1073" ncloc="1073" packages="180" files="180" classes="180"/>
+<coverage generated="1631818915457" clover="3.2.0">
+  <project timestamp="1631818915457" name="All files">
+    <metrics statements="1075" coveredstatements="1070" conditionals="359" coveredconditionals="331" methods="348" coveredmethods="347" elements="1782" coveredelements="1748" complexity="0" loc="1075" ncloc="1075" packages="181" files="181" classes="181"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1731,6 +1731,14 @@
       <file name="powerOfTwo.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/powerOfTwo/powerOfTwo.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.removeDuplicateWords">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="removeDuplicateWords.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/removeDuplicateWords/removeDuplicateWords.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
       </file>
     </package>
