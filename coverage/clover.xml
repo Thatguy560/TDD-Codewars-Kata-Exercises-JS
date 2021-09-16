@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631024784690" clover="3.2.0">
-  <project timestamp="1631024784690" name="All files">
-    <metrics statements="1071" coveredstatements="1066" conditionals="359" coveredconditionals="331" methods="346" coveredmethods="345" elements="1776" coveredelements="1742" complexity="0" loc="1071" ncloc="1071" packages="179" files="179" classes="179"/>
+<coverage generated="1631815587493" clover="3.2.0">
+  <project timestamp="1631815587493" name="All files">
+    <metrics statements="1073" coveredstatements="1068" conditionals="359" coveredconditionals="331" methods="347" coveredmethods="346" elements="1779" coveredelements="1745" complexity="0" loc="1073" ncloc="1073" packages="180" files="180" classes="180"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1923,6 +1923,14 @@
         <line num="6" count="1" type="stmt"/>
         <line num="7" count="5" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.sumOfAngles">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="sumOfAngles.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/sumOfAngles/sumOfAngles.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.sumOfOddNumbers">
