@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631883911074" clover="3.2.0">
-  <project timestamp="1631883911074" name="All files">
-    <metrics statements="1087" coveredstatements="1082" conditionals="363" coveredconditionals="335" methods="354" coveredmethods="353" elements="1804" coveredelements="1770" complexity="0" loc="1087" ncloc="1087" packages="184" files="184" classes="184"/>
+<coverage generated="1631886076955" clover="3.2.0">
+  <project timestamp="1631886076955" name="All files">
+    <metrics statements="1096" coveredstatements="1091" conditionals="363" coveredconditionals="335" methods="356" coveredmethods="355" elements="1815" coveredelements="1781" complexity="0" loc="1096" ncloc="1096" packages="185" files="185" classes="185"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -614,6 +614,21 @@
         <line num="2" count="2" type="cond" truecount="1" falsecount="1"/>
         <line num="3" count="2" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.persistentBugger">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="persistentBugger.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/persistentBugger/persistentBugger.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.prettyDate">
