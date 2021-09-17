@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631881197651" clover="3.2.0">
-  <project timestamp="1631881197651" name="All files">
-    <metrics statements="1083" coveredstatements="1078" conditionals="361" coveredconditionals="333" methods="352" coveredmethods="351" elements="1796" coveredelements="1762" complexity="0" loc="1083" ncloc="1083" packages="183" files="183" classes="183"/>
+<coverage generated="1631883911074" clover="3.2.0">
+  <project timestamp="1631883911074" name="All files">
+    <metrics statements="1087" coveredstatements="1082" conditionals="363" coveredconditionals="335" methods="354" coveredmethods="353" elements="1804" coveredelements="1770" complexity="0" loc="1087" ncloc="1087" packages="184" files="184" classes="184"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -424,6 +424,16 @@
         <line num="25" count="2" type="stmt"/>
         <line num="29" count="2" type="cond" truecount="2" falsecount="0"/>
         <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.duplicateEncoder">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="duplicateEncoder.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/duplicateEncoder/duplicateEncoder.js">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.findOutlier">
