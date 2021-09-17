@@ -363,6 +363,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 180 Remove duplicate words - 7kyu
 
+## 181 Uncollapse Digits - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git

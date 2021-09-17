@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631818915457" clover="3.2.0">
-  <project timestamp="1631818915457" name="All files">
-    <metrics statements="1075" coveredstatements="1070" conditionals="359" coveredconditionals="331" methods="348" coveredmethods="347" elements="1782" coveredelements="1748" complexity="0" loc="1075" ncloc="1075" packages="181" files="181" classes="181"/>
+<coverage generated="1631878924810" clover="3.2.0">
+  <project timestamp="1631878924810" name="All files">
+    <metrics statements="1078" coveredstatements="1073" conditionals="359" coveredconditionals="331" methods="349" coveredmethods="348" elements="1786" coveredelements="1752" complexity="0" loc="1078" ncloc="1078" packages="182" files="182" classes="182"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -905,6 +905,15 @@
         <line num="5" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="6" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="6kyu.uncollapseDigits">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="uncollapseDigits.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/6kyu/uncollapseDigits/uncollapseDigits.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
       </file>
     </package>
     <package name="6kyu.uniqueInOrder">
