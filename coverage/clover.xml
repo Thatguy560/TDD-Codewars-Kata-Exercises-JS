@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1631886076955" clover="3.2.0">
-  <project timestamp="1631886076955" name="All files">
-    <metrics statements="1096" coveredstatements="1091" conditionals="363" coveredconditionals="335" methods="356" coveredmethods="355" elements="1815" coveredelements="1781" complexity="0" loc="1096" ncloc="1096" packages="185" files="185" classes="185"/>
+<coverage generated="1631887638431" clover="3.2.0">
+  <project timestamp="1631887638431" name="All files">
+    <metrics statements="1101" coveredstatements="1096" conditionals="365" coveredconditionals="337" methods="357" coveredmethods="356" elements="1823" coveredelements="1789" complexity="0" loc="1101" ncloc="1101" packages="186" files="186" classes="186"/>
     <package name="4kyu.mostFrequentlyUsedWordsInAText">
       <metrics statements="15" coveredstatements="15" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
       <file name="mostFrequentlyUsedWordsInAText.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/4kyu/mostFrequentlyUsedWordsInAText/mostFrequentlyUsedWordsInAText.js">
@@ -1777,6 +1777,17 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="7kyu.previousMultipleOfThree">
+      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="previousMultipleOfThree.js" path="/Users/peter/Projects/JS-Practice/TDD-Exercises-JS/7kyu/previousMultipleOfThree/previousMultipleOfThree.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
       </file>
     </package>
     <package name="7kyu.removeDuplicateWords">

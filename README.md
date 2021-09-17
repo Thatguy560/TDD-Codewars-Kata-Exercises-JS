@@ -371,6 +371,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 184 Persistent Bugger. - 6kyu
 
+## 185 Previous multiple of three - 7kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
