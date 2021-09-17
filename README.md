@@ -365,6 +365,8 @@ A repository made to practice my TDD skills using some Kata I've found on Codewa
 
 ## 181 Uncollapse Digits - 6kyu
 
+## 182 Find The Parity Outlier - 6kyu
+
 # Check Test Coverage 
 
 git clone https://github.com/Thatguy560/TDD-Codewars-Kata-Exercises.git
